@@ -1,0 +1,43 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	color: #444;
+}
+
+body {
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	background-color: #232323;
+	background-image: url('http://toulousejs.org/wp-content/uploads/2013/03/dark_wood.png');
+	background-repeat: repeat;
+	background-position: top left;
+	background-attachment: fixed;
+}
+
+div[role="main"] {
+	margin: 0 auto;
+	max-width: 680px;
+	overflow: hidden;
+	background: white;
+	min-height: 100%;
+	padding: 30px;
+}
+
+.banner {
+	display: block;
+	margin: auto;
+}
+
+
+img.round {
+	border-radius: 3px;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+/*
+** Reset some CSS
+*/
+h2 {
+	font-weight: normal;
+	font-size: 1.4em;
+}
