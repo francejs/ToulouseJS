@@ -1,3 +1,5 @@
+<img src="https://raw.github.com/francejs/ToulouseJS/master/templates/img/toulousejs.png" width="450" height="148"/>
+
 # [ToulouseJS](http://www.toulousejs.org/)
 
 * [Twitter](https://twitter.com/ToulouseJS)
