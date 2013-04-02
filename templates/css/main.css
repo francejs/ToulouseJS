@@ -8,7 +8,7 @@ html, body {
 body {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	background-color: #232323;
-	background-image: url('http://toulousejs.org/wp-content/uploads/2013/03/dark_wood.png');
+	background-image: url('/img/bg.png');
 	background-repeat: repeat;
 	background-position: top left;
 	background-attachment: fixed;

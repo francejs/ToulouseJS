@@ -6,7 +6,7 @@ var sliderOptions=
 	pauseTime: 2600,
 	transitionTime: 300,
 	hoverPause: 1,
-	autoAdvance: true
+	autoAdvance: true,
 };
 
 var imageSlider=new mcImgSlider(sliderOptions);

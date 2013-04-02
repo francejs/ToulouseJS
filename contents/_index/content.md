@@ -1,6 +1,6 @@
 Toulouse JS – L’évènement JavaScript du Sud-Ouest
 -------------------------------------------------
-<div id="slider">
+<div id="slider" class="mtm">
 	<a href="/toulouse-js-3" target="_blank">
 		<img src="/img/slider/toulousejs3.jpg" alt="Toulouse JS #3" />
 	</a>
