@@ -1,5 +1,5 @@
 {
 	"site-title": "Toulouse JS - L'évènement JavaScript du Sud-Ouest",
 	"navbar": [],
-	"ribbon": "<a href='https://github.com/francejs/ToulouseJS' class='forkMe'><img style='position: absolute; top: 0; left: 30px; border: 0;' src='img/ribbon.png' alt='Fork me on GitHub'></a>"
+	"ribbon": "<a href='https://github.com/francejs/ToulouseJS'><img style='position: absolute; top: 0; left: 30px; border: 0;' src='img/ribbon.png' alt='Fork me on GitHub' width='62px' height='74px'></a>"
 }
