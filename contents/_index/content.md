@@ -19,7 +19,7 @@
 		<div class="post-img-wrapper-speaker"><img src="/img/speakers/hadrien-lanneau.png" alt="Hadrien Lanneau" title="Hadrien Lanneau" /></div>
 	</a>
 	<p>
-		Hadrien Lanneau, développeur font-end chez <a href="http://www.over-blog.com" target="_blank">Overblog</a>, nous a fait son retour d'expérience sur la mise en production d'une grosse application web MVC côté client.<br>
+		Hadrien Lanneau, développeur front-end chez <a href="http://www.over-blog.com" target="_blank">Overblog</a>, nous a fait son retour d'expérience sur la mise en production d'une grosse application web MVC côté client.<br>
 		<a href="http://www.dailymotion.com/video/xx388v_toulouse-js-3-hadrien-lanneau_tech" target="_blank">Voir la vidéo de sa présentation</a>.
 	</p>
 	<!-- Presentation Maxime Thirouin -->
@@ -28,7 +28,7 @@
 		<div class="post-img-wrapper-speaker"><img src="/img/speakers/maxime-thirouin.png" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 	</a>
 	<p>
-		Maxime Thirouin, développeur font-end free-lance, nous a présenté <a href="http://gruntjs.com/" target="_blank">Grunt.JS</a>, un outil très puissant d'automatisation de tâches en ligne de commande.<br>
+		Maxime Thirouin, développeur front-end free-lance, nous a présenté <a href="http://gruntjs.com/" target="_blank">Grunt.JS</a>, un outil très puissant d'automatisation de tâches en ligne de commande.<br>
 		<a href="http://moox.fr/slides/2013/grunt-before-after/" target="_blank">Voir les slides de sa présentation</a>.
 	</p>
 	<!-- Presentation Paul Rouget -->
