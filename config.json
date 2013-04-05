@@ -9,12 +9,7 @@
 
 	"bundles": {
 		"/css/all.css": [
-			"/css/knacss.css",	
-			"/css/main.css",
-			"/css/slider.css"
-		],
-		"/js/all.js": [
-			"/js/slider.js"
+			"/css/main.css"
 		]
 	}
 }
