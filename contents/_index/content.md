@@ -116,23 +116,24 @@
 		Créateur et organisateur du Toulouse JS, j'aime partager ce que j'apprends et apprendre des autres.
 	</p>
 	<p>
-		J'ai créé cet évènement afin que tous les développeurs de la région Toulousaine puissent faire leur veille JS, mais aussi échanger leurs ressentis et leurs expériences sur divers aspects du JavaScript.
+		J'ai créé cet évènement afin que tous les développeurs de la région Toulousaine puissent faire leur veille <abbr title="Javascript">JS</abbr>, mais aussi échanger leurs ressentis et leurs expériences sur divers aspects du JavaScript.
 	</p>
 	<p>
 		Nous faisons notre possible pour organiser souvent cet évènement avec une qualité des présentations et de l'environnement (assez de place, microphone, rétro-projecteur...), cela peut donc prendre plus ou moins de temps et peut aussi varier selon le temps libre des organisateurs.<br>
 	</p>
 	<p>
 		<b>Vous avez une idée de présentation ?</b><br>
-		Contactez nous sur Twitter ou sur le groupe Google + !
+		Contactez nous sur <a href="https://www.twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
 	</p>
 	<h3 class="post-presentation-title">Frank Taillandier</h4>
 	<a href="https://twitter.com/DirtyF" target="_blank">
 		<div class="post-img-wrapper-promoter"><img src="/img/speakers/frank-taillandier.png" alt="Frank Taillandier" title="Frank Taillandier" /></div>
 	</a>
 	<p>
-		Organisateur du Toulouse JS #2.<br>
-		Je suis aussi organisateur de <a href="http://sudweb.fr" target="_blank">Sud Web</a>.<br>
-		<i>En cours de rédaction...</i>
+		Contributeur à des sites comme <a href="http://www.pompage.net/" target="_blank">Pompage</a> ou <a href="http://openweb.eu.org/" target="_blank">Openweb</a>, fondateur des <a href="http://toulouse.aperoweb.fr">apéroweb Toulouse</a> et de la conférence <a href="http://sudweb.fr" target="_blank">Sud Web</a>, expert Accessiweb, Frank milite depuis plus de 10 ans pour un web de qualité. 
+	</p>
+	<p>
+		C'est donc tout naturellement qu'il prête main forte à Toulouse JS dès la troisième édition, vu l'importance du langage Javascript dans le web d'aujourd'hui.
 	</p>
 	<h3 class="post-presentation-title" style="padding-top: 20px;">Maxime Thirouin</h4>
 	<a href="https://twitter.com/DirtyF" target="_blank">
