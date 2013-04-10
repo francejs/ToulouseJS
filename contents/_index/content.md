@@ -4,7 +4,7 @@
 	<div class="post-img-wrapper"><img src="/img/conference.jpg" alt="prochain Toulouse JS"></div>
 	<p class="first">
 		Pour le moment, aucune date n'est prévue officiellement. Nous allons cependant essayer d'en organiser un pour <b>le mois de mai 2013</b>.<br>
-		Vous pouvez nous suivre sur <a href="https://www.twitter.com/ToulouseJS" target="_blank">Twitter</a> afin d'en savoir plus dès qu'il y aura du nouveau.
+		Vous pouvez nous suivre sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> afin d'en savoir plus dès qu'il y aura du nouveau.
 	</p>
 </div>
 <div id="toulousejs-3" class="post">
@@ -123,7 +123,7 @@
 	</p>
 	<p>
 		<b>Vous avez une idée de présentation ?</b><br>
-		Contactez nous sur <a href="https://www.twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
+		Contactez nous sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
 	</p>
 	<h3 class="post-presentation-title">Frank Taillandier</h3>
 	<a href="https://twitter.com/DirtyF" target="_blank">
