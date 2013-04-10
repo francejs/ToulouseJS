@@ -6,6 +6,14 @@
 		Pour le moment, aucune date n'est prévue officiellement. Nous allons cependant essayer d'en organiser un pour <b>le mois de mai 2013</b>.<br>
 		Vous pouvez nous suivre sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> afin d'en savoir plus dès qu'il y aura du nouveau.
 	</p>
+	<h2>Vous avez une idée de présentation ?</h2>
+	<p>
+		Contactez nous sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.<br />
+		Vous pouvez aussi proposer vos talks aux <a href="http://toulouse.aperoweb.fr">Aperoweb toulousains</a> sur <a href="https://trello.com/board/presentations/51138a0982415ad50e01009d">le Trello board</a> ou sur le <a href="https://github.com/aperoweb-toulouse/talks">repo Github</a>.
+	</p>
+	<p>
+		Nous faisons notre possible pour organiser souvent cet évènement avec une qualité des présentations et de l'environnement (assez de place, microphone, rétro-projecteur...), cela peut donc prendre plus ou moins de temps et peut aussi varier selon le temps libre des organisateurs.
+	</p>
 </div>
 <div id="toulousejs-3" class="post">
 	<h1>Toulouse JS #3</h1>
@@ -117,13 +125,6 @@
 	</p>
 	<p>
 		J'ai créé cet évènement afin que tous les développeurs de la région Toulousaine puissent faire leur veille <abbr title="Javascript">JS</abbr>, mais aussi échanger leurs ressentis et leurs expériences sur divers aspects du JavaScript.
-	</p>
-	<p>
-		Nous faisons notre possible pour organiser souvent cet évènement avec une qualité des présentations et de l'environnement (assez de place, microphone, rétro-projecteur...), cela peut donc prendre plus ou moins de temps et peut aussi varier selon le temps libre des organisateurs.<br>
-	</p>
-	<p>
-		<b>Vous avez une idée de présentation ?</b><br>
-		Contactez nous sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
 	</p>
 	<h3 class="post-presentation-title">Frank Taillandier</h3>
 	<a href="https://twitter.com/DirtyF" target="_blank">
