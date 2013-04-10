@@ -24,11 +24,11 @@
 	</p>
 	<!-- Presentation Maxime Thirouin -->
 	<h4 class="post-presentation-title">Grunt.js (avant/après)</h4>
-	<a href="http://www.moox.fr" target="_blank">
-		<div class="post-img-wrapper-speaker"><img src="/img/speakers/maxime-thirouin.png" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+	<a href="http://moox.fr/" target="_blank">
+		<div class="post-img-wrapper-speaker"><img src="http://avatars.io/auto/MoOx?size=large" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 	</a>
 	<p>
-		Maxime Thirouin, développeur front-end free-lance, nous a présenté <a href="http://gruntjs.com/" target="_blank">Grunt.JS</a>, un outil très puissant d'automatisation de tâches en ligne de commande.<br>
+		Maxime Thirouin, développeur front-end freelance, nous a présenté <a href="http://gruntjs.com/" target="_blank">Grunt.JS</a>, un puissant outil d'automatisation de tâches en ligne de commande.<br>
 		<a href="http://moox.fr/slides/2013/grunt-before-after/" target="_blank">Voir les slides de sa présentation</a>.
 	</p>
 	<!-- Presentation Paul Rouget -->
@@ -108,7 +108,7 @@
 <div id="organisateurs" class="post">
 	<h1>Les organisateurs</h1>
 	<div class="post-img-wrapper"><img src="/img/organisateurs.jpg" alt="Les organisateurs"></div>
-	<h3 class="post-presentation-title">Sébastien Chopin</h4>
+	<h3 class="post-presentation-title">Sébastien Chopin</h3>
 	<a href="http://twitter.com/atinux" target="_blank">
 		<div class="post-img-wrapper-promoter"><img src="/img/speakers/sebastien-chopin.png" alt="Sébastien Chopin" title="Sébastien Chopin" /></div>
 	</a>
@@ -125,7 +125,7 @@
 		<b>Vous avez une idée de présentation ?</b><br>
 		Contactez nous sur <a href="https://www.twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
 	</p>
-	<h3 class="post-presentation-title">Frank Taillandier</h4>
+	<h3 class="post-presentation-title">Frank Taillandier</h3>
 	<a href="https://twitter.com/DirtyF" target="_blank">
 		<div class="post-img-wrapper-promoter"><img src="/img/speakers/frank-taillandier.png" alt="Frank Taillandier" title="Frank Taillandier" /></div>
 	</a>
@@ -135,13 +135,17 @@
 	<p>
 		C'est donc tout naturellement qu'il prête main forte à Toulouse JS dès la troisième édition, vu l'importance du langage Javascript dans le web d'aujourd'hui.
 	</p>
-	<h3 class="post-presentation-title" style="padding-top: 20px;">Maxime Thirouin</h4>
-	<a href="https://twitter.com/DirtyF" target="_blank">
-		<div class="post-img-wrapper-promoter"><img src="/img/speakers/maxime-thirouin.png" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+	<h3 class="post-presentation-title">Maxime Thirouin</h3>
+	<a href="http://moox.fr/" target="_blank">
+		<div class="post-img-wrapper-promoter"><img src="http://avatars.io/auto/MoOx?size=large" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 	</a>
 	<p>
-		Maxime a rejoint l'équipe début avril 2013.<br>
-		<i>En cours de rédaction...</i>
+		Ayant réalisé sa première application JavaScript sur PDA il y a bien des années, Maxime est un passionné de développement web. Il se focalise sur le développement côté client, réalisant des interfaces avec CSS et en programmant des expériences utilisateurs originales avec la puissance de JavaScript.
+		<br />
+		Cela ne l'empêche pas de faire du back-end lorsque c'est nécessaire de préférence avec du JavaScript depuis qu'il a découvert Node.js.
 	</p>
-	<div style="clear: left;"></div>
+	<p>
+		Il aime partager tout ce qu'il apprend, que ce soit sur <a href="https://twitter.com/MoOx">Twitter</a>, en donnant des conférences ou en tant que professeur à l'Université.
+	</p>
+	<p> Lorsqu'il ne profite pas de la vie simplement, il adore aussi contribuer à l'Open Source via <a href="https://github.com/MoOx">Github</a>.
 </div>
