@@ -33,7 +33,7 @@
 	<!-- Presentation Maxime Thirouin -->
 	<h4 class="post-presentation-title">Grunt.js (avant/après)</h4>
 	<a href="http://moox.fr/" target="_blank">
-		<div class="post-img-wrapper-speaker"><img src="http://avatars.io/auto/MoOx?size=large" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+		<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 	</a>
 	<p>
 		Maxime Thirouin, développeur front-end freelance, nous a présenté <a href="http://gruntjs.com/" target="_blank">Grunt.JS</a>, un puissant outil d'automatisation de tâches en ligne de commande.<br>
@@ -41,7 +41,7 @@
 	</p>
 	<!-- Presentation Paul Rouget -->
 	<h4 class="post-presentation-title">Au coeur du navigateur</h4>
-	<a href="http://www.moox.fr" target="_blank">
+	<a href="http://moox.fr/" target="_blank">
 		<div class="post-img-wrapper-speaker"><img src="/img/speakers/paul-rouget.png" alt="Paul Rouget" title="Paul Rouget" /></div>
 	</a>
 	<p>
@@ -138,7 +138,7 @@
 	</p>
 	<h3 class="post-presentation-title">Maxime Thirouin</h3>
 	<a href="http://moox.fr/" target="_blank">
-		<div class="post-img-wrapper-promoter"><img src="http://avatars.io/auto/MoOx?size=large" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+		<div class="post-img-wrapper-promoter"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 	</a>
 	<p>
 		Ayant réalisé sa première application JavaScript sur PDA il y a bien des années, Maxime est un passionné de développement web. Il se focalise sur le développement côté client, réalisant des interfaces avec CSS et en programmant des expériences utilisateurs originales avec la puissance de JavaScript.
