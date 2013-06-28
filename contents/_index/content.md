@@ -65,7 +65,7 @@
 	<!-- Presentation Raphaël Rougeron -->
 	<h4 class="post-presentation-title">Soyez ambitieux avec Ember.js</h4>
 	<a href="https://twitter.com/goldoraf" target="_blank">
-		<div class="post-img-wrapper-speaker"><img src="/img/speakers/raphael-rougeron.png" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
+		<div class="post-img-wrapper-speaker"><img src="gravatar.com/avatar/7ef6aaaa4cc300fe4bb8df4e1e42838e?s=256" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
 	</a>
 	<p>
 		Raphaël Rougeron, véritable expert en développement, nous a présenté <a href="http://emberjs.com" target="_blank">Ember.js</a>, un framework pour les applications web ambitieuses.
@@ -138,6 +138,7 @@
 	<p>
 		C'est donc tout naturellement qu'il prête main forte à Toulouse JS dès la troisième édition, vu l'importance du langage Javascript dans le web d'aujourd'hui.
 	</p>
+	
 	<h3 class="post-presentation-title">Maxime Thirouin</h3>
 	<a href="http://moox.fr/" target="_blank">
 		<div class="post-img-wrapper-promoter"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
@@ -151,4 +152,12 @@
 		Il aime partager tout ce qu'il apprend, que ce soit sur <a href="https://twitter.com/MoOx">Twitter</a>, en donnant des conférences ou en tant que professeur à l'Université.
 	</p>
 	<p> Lorsqu'il ne profite pas de la vie simplement, il adore aussi contribuer à l'Open Source via <a href="https://github.com/MoOx">Github</a>.
+	
+	<h3 class="post-presentation-title">Raphaël Rougeron</h3>
+	<a href="http://raphael-rougeron.com" target="_blank">
+		<div class="post-img-wrapper-promoter"><img src="gravatar.com/avatar/7ef6aaaa4cc300fe4bb8df4e1e42838e?s=256" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
+	</a>
+	<p>
+		Ivre, il trolle ou code des frameworks...
+	</p>
 </div>
