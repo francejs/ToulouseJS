@@ -3,7 +3,9 @@
 	<h1>Prochain Toulouse JS</h1>
 	<div class="post-img-wrapper"><img src="/img/conference.jpg" alt="prochain Toulouse JS"></div>
 	<p class="first">
-		Pour le moment, aucune date n'est prévue officiellement. Nous allons cependant essayer d'en organiser un pour <b>le mois de mai 2013</b>.<br>
+		Pour le moment, aucune date n'est prévue officiellement. Nous allons cependant essayer d'en organiser un pour 
+		<b>le mois de juillet 2013</b>.
+		<br>
 		Vous pouvez nous suivre sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> afin d'en savoir plus dès qu'il y aura du nouveau.
 	</p>
 	<h2>Vous avez une idée de présentation ?</h2>
