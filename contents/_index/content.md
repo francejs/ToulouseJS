@@ -65,7 +65,7 @@
 	<!-- Presentation Raphaël Rougeron -->
 	<h4 class="post-presentation-title">Soyez ambitieux avec Ember.js</h4>
 	<a href="https://twitter.com/goldoraf" target="_blank">
-		<div class="post-img-wrapper-speaker"><img src="gravatar.com/avatar/7ef6aaaa4cc300fe4bb8df4e1e42838e?s=256" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
+		<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/7ef6aaaa4cc300fe4bb8df4e1e42838e?s=256" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
 	</a>
 	<p>
 		Raphaël Rougeron, véritable expert en développement, nous a présenté <a href="http://emberjs.com" target="_blank">Ember.js</a>, un framework pour les applications web ambitieuses.
@@ -155,7 +155,7 @@
 	
 	<h3 class="post-presentation-title">Raphaël Rougeron</h3>
 	<a href="http://raphael-rougeron.com" target="_blank">
-		<div class="post-img-wrapper-promoter"><img src="gravatar.com/avatar/7ef6aaaa4cc300fe4bb8df4e1e42838e?s=256" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
+		<div class="post-img-wrapper-promoter"><img src="//gravatar.com/avatar/7ef6aaaa4cc300fe4bb8df4e1e42838e?s=256" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
 	</a>
 	<p>
 		Ivre, il trolle ou code des frameworks...
