@@ -152,20 +152,20 @@ ol { list-style-type: decimal; }
 			.right-column-social-link:hover {
 				background: #ffffaa;
 			}
-			.right-column-social-link.twitter:focus,
-			.right-column-social-link.twitter:hover {
+			.right-column-social-link--twitter:focus,
+			.right-column-social-link--twitter:hover {
 				background: #D5F2FF;
 			}
-			.right-column-social-link.google-plus:focus,
-			.right-column-social-link.google-plus:hover {
+			.right-column-social-link--google-plus:focus,
+			.right-column-social-link--google-plus:hover {
 				background: #FFD5D5;
 			}
-			.right-column-social-link.flickr:focus,
-			.right-column-social-link.flickr:hover {
+			.right-column-social-link--flickr:focus,
+			.right-column-social-link--flickr:hover {
 				background: #E8D7FD;
 			}
-			.right-column-social-link.github:focus,
-			.right-column-social-link.github:hover {
+			.right-column-social-link--github:focus,
+			.right-column-social-link--github:hover {
 				background: #E7E7E7;
 			}
 /*
