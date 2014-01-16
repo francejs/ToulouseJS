@@ -3,18 +3,30 @@
 	<h1>Prochain Toulouse JS</h1>
 	<div class="post-img-wrapper"><img src="/img/conference.jpg" alt="prochain Toulouse JS"></div>
 	<p class="first">
-		Pour le moment, aucune date n'est prévue officiellement. Nous allons cependant essayer d'en organiser un 
-		<b>avant la fin de l'année 2013</b>.
-		<br>
-		Vous pouvez nous suivre sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> afin d'en savoir plus dès qu'il y aura du nouveau.
+		Le prochain ToulouseJS est prévu pour le soir du <strong>30 janvier 2014</strong>.
+		<br />
+		Faites-nous savoir que vous comptez venir en vous inscrivant sur 
+		<a href="http://lanyrd.com/2014/toulousejs4/">la page Lanyrd de l'événement</a>.
+		<br />
+		Pensez à nous suivre sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a>
+		afin d'être tenu au courant du programme.
+		Et d'ailleurs, le programme c'est vous qui le faites !
 	</p>
-	<h2>Vous avez une idée de présentation ?</h2>
+	<h2>Envie de parler ?</h2>
 	<p>
-		Contactez nous sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.<br />
+		Contactez nous sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
+		Il suffit de faire une proposition pour avoir son petit créneau tant qu'on parle de JavaScript.
+		<br />
 		Vous pouvez aussi proposer vos talks aux <a href="http://toulouse.aperoweb.fr">Aperoweb toulousains</a> sur <a href="https://trello.com/board/presentations/51138a0982415ad50e01009d">le Trello board</a> ou sur le <a href="https://github.com/aperoweb-toulouse/talks">repo Github</a>.
 	</p>
 	<p>
 		Nous faisons notre possible pour organiser souvent cet évènement avec une qualité des présentations et de l'environnement (assez de place, microphone, rétro-projecteur...), cela peut donc prendre plus ou moins de temps et peut aussi varier selon le temps libre des organisateurs.
+	</p>
+</div>
+<div id="toulousejs-4" class="post">
+	<h1>Toulouse JS #4</h1>
+	<p class="first">
+		Prévu pour le soir du 30 janvier 2014, à Epitech Toulouse.
 	</p>
 </div>
 <div id="toulousejs-3" class="post">
