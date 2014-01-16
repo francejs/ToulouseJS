@@ -16,15 +16,21 @@ Le site utilise [Punch](http://laktek.github.com/punch/), un générateur de sit
 
     $ git clone git://github.com/francejs/ToulouseJS.git
 
-## Installer Punch
+## Installer Punch (via npm)
 
-    $ npm install -g punch
+Cette commande nécessite Node.js d'installé sur votre machine
+
+    $ make init
     
 ## Démarrer le serveur
     
-    $ punch s 3000
+Cette commande va démarrer le serveur punch et vous ouvrir la page dans votre 
+navigateur
 
-Le server écoute maintenant sur le port 3000 de votre machine. Il ne vous reste plus qu'à accéder à [http://localhost:3000/](http://localhost:3000/).
+    $ make start
+
+Le server écoute sur le port 3000 de votre machine. Vous devriez donc déjà avoir
+[http://localhost:3000/](http://localhost:3000/) d'ouvert après cette commande.
 
 *[Documentation de Punch](https://github.com/laktek/punch/wiki)*
 
