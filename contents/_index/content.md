@@ -5,8 +5,7 @@
 	<p class="first">
 		Le prochain ToulouseJS est prévu pour le soir du <strong>30 janvier 2014</strong>.
 		<br />
-		Faites-nous savoir que vous comptez venir en vous inscrivant sur 
-		<a href="http://lanyrd.com/2014/toulousejs4/">la page Lanyrd de l'événement</a>.
+		Réservez votre place via <a href="http://toulousejs4.eventbrite.fr/">la page Eventbrite de l'événement</a>.
 		<br />
 		Pensez à nous suivre sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a>
 		afin d'être tenu au courant du programme.
