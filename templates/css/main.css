@@ -180,6 +180,26 @@ ol { list-style-type: decimal; }
 	border-bottom: 0;
 }
 
+	.post p.first:first-letter {
+		color: #333;
+		display: inline-block;
+		float: left;
+		font-size: 46px;
+		line-height: 46px;
+		margin: 1px 8px 0 0;
+	}
+	.post a {
+		color: #D3511F;
+	}
+	.post a:focus,
+	.post a:hover {
+		background: #FFA;
+	}
+	.post-presentation-title {
+		clear: both;
+		font-weight: bold;
+	}
+
 	.post-img-wrapper {
 		background: white;
 		padding: 9px;
@@ -197,6 +217,21 @@ ol { list-style-type: decimal; }
 			margin: 0;
 			padding: 0;
 		}
+
+	.post-img-credit {
+		display: block;
+		margin-top: -24px;
+		margin-bottom: 24px;
+
+		font-size: .8em;
+		text-align: right;
+	}
+
+	.post-img-credit,
+	.post-img-credit a {
+		color: #b7b6b6;
+	}
+
 	.post-img-wrapper-speaker {
 		background: white;
 		padding: 5px;
@@ -248,25 +283,6 @@ ol { list-style-type: decimal; }
 			margin: 0;
 			padding: 0;
 		}
-	.post p.first:first-letter {
-		color: #333;
-		display: inline-block;
-		float: left;
-		font-size: 46px;
-		line-height: 46px;
-		margin: 1px 8px 0 0;
-	}
-	.post a {
-		color: #D3511F;
-	}
-	.post a:focus,
-	.post a:hover {
-		background: #FFA;
-	}
-	.post-presentation-title {
-		clear: both;
-		font-weight: bold;
-	}
 
 /*
 ** Scroll bar
