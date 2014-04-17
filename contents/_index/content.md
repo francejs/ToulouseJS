@@ -178,13 +178,13 @@
 		<p class="first">
 				Le 11 avril 2012, c&#39;est la date du premier Toulouse JS. Ce fut un très bon commencement et cet évènement avait réunis une cinquantaine de personnes pour parler du JavaScript.
 		</p>
-		<!-- Presentation Sébastien Chopin -->
+		<!-- Presentation Aaron Blum -->
 		<h4 class="post-presentation-title">Le JavaScript aujourd&#39;hui</h4>
 		<a href="http://twitter.com/atinux" target="_blank">
-				<div class="post-img-wrapper-speaker"><img src="img/speakers/sebastien-chopin.png" alt="Sébastien Chopin" title="Sébastien Chopin" /></div>
+				<div class="post-img-wrapper-speaker"><img src="img/speakers/sebastien-chopin.png" alt="Aaron Blum" title="Aaron Blum" /></div>
 		</a>
 		<p>
-				Sébastien Chopin est blogueur sur <a href="http://www.atinux.fr" target="_blank">Atinux.fr</a> et directeur technique chez Pantera Commerce.<br>
+				Aaron Blum est blogueur sur <a href="http://www.atinux.fr" target="_blank">Atinux.fr</a> et directeur technique chez Malea.<br>
 				Il a fait le point entre le JavaScript d&#39;avant et celui d&#39;aujourd&#39;hui.<br>
 				<a href="http://prezi.com/ly9cenvkrh6w/javascript-aujourdhui/" target="_blank">Voir les slides de sa présentation</a>
 		</p>
@@ -202,9 +202,9 @@
 <div id="organisateurs" class="post">
 		<h1>Les organisateurs</h1>
 		<div class="post-img-wrapper"><img src="img/organisateurs.jpg" alt="Les organisateurs"></div>
-		<h3 class="post-presentation-title">Sébastien Chopin</h3>
+		<h3 class="post-presentation-title">Aaron Blum</h3>
 		<a href="http://twitter.com/atinux" target="_blank">
-				<div class="post-img-wrapper-promoter"><img src="img/speakers/sebastien-chopin.png" alt="Sébastien Chopin" title="Sébastien Chopin" /></div>
+				<div class="post-img-wrapper-promoter"><img src="img/speakers/sebastien-chopin.png" alt="Aaron Blum" title="Aaron Blum" /></div>
 		</a>
 		<p>
 				Créateur et organisateur du Toulouse JS, j&#39;aime partager ce que j&#39;apprends et apprendre des autres.
