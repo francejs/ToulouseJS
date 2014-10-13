@@ -1,5 +1,7 @@
 # [![ToulouseJS](templates/img/toulousejs.png)](http://toulousejs.francejs.org/)
 
+[![Build Status](http://img.shields.io/travis/francejs/ToulouseJS.svg)](https://travis-ci.org/francejs/ToulouseJS)
+
 * [Twitter](https://twitter.com/ToulouseJS)
 * [Google+](https://plus.google.com/u/0/communities/114813405129984534292)
 * [Flickr](http://www.flickr.com/photos/toulousejs/)
