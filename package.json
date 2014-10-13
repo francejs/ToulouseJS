@@ -1,0 +1,33 @@
+{
+  "name": "toulousejs",
+  "version": "0.0.0",
+  "description": "ToulouseJS website",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francejs/ToulouseJS.git"
+  },
+  "homepage": "https://github.com/francejs/ToulouseJS",
+  "bugs": {
+    "url": "https://github.com/francejs/ToulouseJS/issues"
+  },
+  "files": [],
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-gh-pages": "^0.3.3",
+    "gulp-util": "^3.0.0",
+    "jscs": "^1.5.9",
+    "jshint": "^2.5.2",
+    "jshint-stylish": "^0.4.0",
+    "punch": "^0.5.45"
+  },
+  "scripts": {
+    "jscs": "jscs *.js",
+    "jshint": "jshint . --exclude-path .gitignore",
+    "test": "npm run jscs && npm run jshint && punch g",
+    "start": "sleep 2 && open http://localhost:3000/ & punch s 3000",
+    "deploy": "gulp deploy",
+    "travis": "if [ \"$TRAVIS_PULL_REQUEST\" != \"false\" ] || [ \"$TRAVIS_BRANCH\" != \"master\" ]; then npm run test; else npm run deploy; fi;"
+  }
+}
