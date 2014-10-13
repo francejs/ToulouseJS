@@ -2,12 +2,16 @@
 		<h1>Prochain Toulouse JS</h1>
 		<div class="post-img-wrapper"><img src="img/meetups/5/salle.jpg" alt="prochain Toulouse JS"></div>
 		<p class="first">
-				Le prochain ToulouseJS est prévu <strong>en avril 2014</strong>.
-				<!--
-				Need to create page & update url
+				Le prochain ToulouseJS est prévu en collaboration avec <a href="http://aperoweb-toulouse.github.io/">apéro web toulouse</a>
+				<strong>
+				pour le jeudi 30 octobre, 19h30 à Epitech.
+				</strong>
 				<br />
-				Réservez votre place via <a href="http://toulousejs6.eventbrite.fr/">la page Eventbrite de l&#39;événement</a>.
-				-->
+				(Attention, <a href="https://www.google.fr/maps/place/Epitech+Toulouse/@43.612649,1.429886,17z/data=!3m1!4b1!4m12!1m9!4m8!1m0!1m6!1m2!1s0x12aebb684b28780d:0xb4028dd307c2dfcf!2sEvangelina,+33+Boulevard+Mar%C3%A9chal+Leclerc,+31000+Toulouse!2m2!1d1.43198!2d43.609105!3m1!1s0x0:0x42f190cacf720466?hl=fr">nouvelle adresse: 40 bd de la Marquette</a>)
+				.
+				<br />
+				<br />
+				Consultez le programme et réservez votre place via <a href="http://aperoweb26-toulousejs6.eventbrite.fr">la page Eventbrite de l&#39;événement</a>.
 				<br />
 				Pensez à nous suivre sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a>
 				afin d&#39;être tenu au courant du programme.
@@ -21,12 +25,14 @@
 				Vous pouvez aussi proposer vos talks sur le <a href="https://github.com/francejs/ToulouseJS/issues?state=open">repo Github</a>.
 		</p>
 </div>
-<div id="toulousejs-6" class="post">
-		<h1>Toulouse JS #6 ?</h1>
+<!--
+<div id="toulousejs-7" class="post">
+		<h1>Toulouse JS #7 ?</h1>
 		<p class="first">
-				Prévu en avril 2014. N'hésitez pas à nous contactez si vous souhaitez intervenir. Il suffit de demander !
+				Prévu en ??? . N'hésitez pas à nous contactez si vous souhaitez intervenir. Il suffit de demander !
 		</p>
 </div>
+-->
 <div id="toulousejs-5" class="post">
 		<h1>Toulouse JS #5</h1>
 		<div class="post-img-wrapper"><img src="img/meetups/toulousejs5.jpg" alt="Toulouse JS 5"></div>
