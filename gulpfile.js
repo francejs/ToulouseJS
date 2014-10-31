@@ -10,7 +10,8 @@ var ghPages = require("gulp-gh-pages")
 gulp.task("deploy", function() {
   // https://github.com/rowoot/gulp-gh-pages/issues/26
   return gulp.src([
-    "output/**/*"
+    "output/**/*",
+    "CNAME"
   ])
     .pipe(ghPages({
       remoteUrl: "https://" + (process.env.GH_TOKEN ? process.env.GH_TOKEN + "@" : "") + "github.com/francejs/ToulouseJS.git",
