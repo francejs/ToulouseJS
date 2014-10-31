@@ -1,6 +1,8 @@
 <div id="prochain-toulousejs" class="post">
 		<h1>Prochain Toulouse JS</h1>
 		<div class="post-img-wrapper"><img src="img/meetups/5/salle.jpg" alt="prochain Toulouse JS"></div>
+		Aucune date prévue pour le moment.
+		<!--
 		<p class="first">
 				Le prochain ToulouseJS est prévu en collaboration avec <a href="http://aperoweb-toulouse.github.io/">apéro web toulouse</a>
 				<strong>
@@ -16,6 +18,7 @@
 				Pensez à nous suivre sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a>
 				afin d&#39;être tenu au courant du programme.
 				Et d&#39;ailleurs, le programme c&#39;est vous qui le faites !
+		-->
 		</p>
 		<h2>Envie de parler ?</h2>
 		<p>
@@ -33,6 +36,32 @@
 		</p>
 </div>
 -->
+<div id="toulousejs-6" class="post">
+		<h1>Toulouse JS #6 / Apéro web #26</h1>
+		<div class="post-img-wrapper"><img src="img/meetups/toulousejs6.jpg" alt="Toulouse JS 6"></div>
+		<p class="first">
+				Le jeudi 30 octobre à Epitech (nouveaux locaux), nous avons eu une présentation de React, et du futur des CSS.
+				<br />Comme d'habitude, on s'est tous retrouvés pour boire un coup après, l'occassion d'un <a href="http://aperoweb-toulouse.github.io/">Apéro web</a>.
+		</p>
+
+		<h4 class="post-presentation-title">Introduction a ReactJS</h4>
+		<a href="http://blog.ticabri.com/" target="_blank">
+				<div class="post-img-wrapper-speaker"><img src="https://avatars2.githubusercontent.com/u/4551756?v=2&s=256" alt="Enguerran Colson" title="Enguerran Colson" /></div>
+		</a>
+		<p>
+				Enguerran Colson, développeur web, nous a présenté <a href="http://facebook.github.io/react/" target="_blank">React</a>, une librairie JavaScript pour gérer ses vues de manière très simple et performante.<br>
+				<a href="http://enguerran.github.io/talks/introduction-reactjs/#/" target="_blank">Voir les slides de sa présentation</a>.
+		</p>
+
+		<h4 class="post-presentation-title">Introduction à Gulp</h4>
+		<a href="http://moox.io/" target="_blank">
+				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+		</a>
+		<p>
+				Maxime Thirouin, développeur front-end freelance, nous a parlé du futur des feuilles de styles, et du project <a href="https://cssnext.github.io/" target="_blank">@cssnext</a>, une alternative aux préprocesseurs CSS, pour un code durable et future-proof.<br>
+				<a href="http://moox.io/slides/2014/bttc" target="_blank">Voir les slides de sa présentation</a>.
+		</p>
+</div>
 <div id="toulousejs-5" class="post">
 		<h1>Toulouse JS #5</h1>
 		<div class="post-img-wrapper"><img src="img/meetups/toulousejs5.jpg" alt="Toulouse JS 5"></div>
