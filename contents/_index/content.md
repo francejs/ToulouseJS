@@ -53,7 +53,7 @@
 				<a href="http://enguerran.github.io/talks/introduction-reactjs/#/" target="_blank">Voir les slides de sa présentation</a>.
 		</p>
 
-		<h4 class="post-presentation-title">Introduction à Gulp</h4>
+		<h4 class="post-presentation-title">Le futur des CSS</h4>
 		<a href="http://moox.io/" target="_blank">
 				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 		</a>
