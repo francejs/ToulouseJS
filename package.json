@@ -27,7 +27,7 @@
     "jshint": "jshint . --exclude-path .gitignore",
     "test": "npm run jscs && npm run jshint && punch g",
     "start": "sleep 2 && open http://localhost:3000/ & punch s 3000",
-    "deploy": "npm run test && npm gulp deploy",
+    "deploy": "npm run test && gulp deploy",
     "travis": "if [ \"$TRAVIS_PULL_REQUEST\" != \"false\" ] || [ \"$TRAVIS_BRANCH\" != \"master\" ]; then npm run test; else npm run deploy; fi;"
   }
 }
