@@ -49,7 +49,7 @@
 				<div class="post-img-wrapper-speaker"><img src="https://avatars2.githubusercontent.com/u/4551756?v=2&s=256" alt="Enguerran Colson" title="Enguerran Colson" /></div>
 		</a>
 		<p>
-				Enguerran Colson, développeur web, nous a présenté <a href="http://facebook.github.io/react/" target="_blank">React</a>, une librairie JavaScript pour gérer ses vues de manière très simple et performante.<br>
+				Enguerran Colson, artisan développeur, nous a présenté <a href="http://facebook.github.io/react/" target="_blank">React</a>, une librairie JavaScript pour gérer ses vues de manière très simple et performante.<br>
 				<a href="http://enguerran.github.io/talks/introduction-reactjs/#/" target="_blank">Voir les slides de sa présentation</a>.
 		</p>
 
