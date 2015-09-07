@@ -80,14 +80,19 @@
 				Vous pouvez aussi proposer vos talks sur le <a href="https://github.com/francejs/ToulouseJS/issues?state=open">repo Github</a>.
 		</p>
 </div>
-<!--
 <div id="toulousejs-7" class="post">
-		<h1>Toulouse JS #7 ?</h1>
+		<h1>Toulouse JS #7</h1>
 		<p class="first">
-				Prévu en ??? . N'hésitez pas à nous contactez si vous souhaitez intervenir. Il suffit de demander !
+			<p>Cela se passe à <a href="">Etincelle Coworking</a>, 2 rue d'Austerlitz, 31000 TOULOUSE, près de la Place Wilson.</p>
+			<p>Au programme du ToulouseJS 7 (mardi 8 septembre):</p>
+
+<h4 class="post-presentation-title">Décorateurs ES7</h4>
+<h4 class="post-presentation-title">Les "npm scripts" en place de runner</h4>
+<h4 class="post-presentation-title">Webpack</h4>
+
+			<p>Inscriptions sur <a href="http://www.eventbrite.fr/e/billets-toulousejs-7-18315536262">Eventbrite</a>.</p>
 		</p>
 </div>
--->
 <div id="toulousejs-6" class="post">
 		<h1>Toulouse JS #6 / Apéro web #26</h1>
 		<div class="post-img-wrapper"><img src="img/meetups/toulousejs6.jpg" alt="Toulouse JS 6"></div>
