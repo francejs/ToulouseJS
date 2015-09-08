@@ -87,7 +87,26 @@
 		</p>
 		<p>Au programme du ToulouseJS 7 (mardi 8 septembre à 19h):</p>
 
-    <h4 class="post-presentation-title">Décorateurs ES7</h4>
+    <h4
+      class="post-presentation-title">Décorateurs ES7</h4>
+    <p>
+      <a
+        href="https://hadrien.eu"
+        target="_blank"
+        class="post-img-wrapper-speaker">
+        <img
+          src="//secure.gravatar.com/avatar/dfb18eb2b34f518c1b44cb735896f884?s=256"
+          alt="Hadrien Lanneau"
+          title="Hadrien Lanneau" />
+		  </a>
+		</p>
+		<p>
+      ES<del>6</del>2015 nous a apporté les classes, ES<del>7</del>2016 nous apporte de quoi modeler ces classes : les décorateurs.
+    </p>
+    <p>
+      Présenté par Hadrien Lanneau, développeur front-end (Tigerlily)
+    </p>
+
     <h4 class="post-presentation-title">Les "npm scripts" en place de runner</h4>
     <h4 class="post-presentation-title">Webpack</h4>
     <a href="http://moox.io/" target="_blank">
