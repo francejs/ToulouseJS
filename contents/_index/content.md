@@ -83,19 +83,19 @@
 <div id="toulousejs-7" class="post">
 		<h1>Toulouse JS #7</h1>
 		<p class="first">
-			Cela se passe à <a href="">Etincelle Coworking</a>, 2 rue d'Austerlitz, 31000 TOULOUSE, près de la Place Wilson.
+			Rendez-vous mardi 8 septembre à 19h à <a href="http://www.coworking-toulouse.com/">Etincelle Coworking</a>, 2 rue d'Austerlitz, 31000 Toulouse, près de la Place Wilson.
+			Les capacités d'accueil sont limitées, merci de <a href="http://www.eventbrite.fr/e/billets-toulousejs-7-18315536262">vous inscrire</a> - c'est presque complet.
 		</p>
-		<p>Au programme du ToulouseJS 7 (mardi 8 septembre à 19h):</p>
+		<p>Au programme de ToulouseJS 7 :</p>
 
-    <h4
-      class="post-presentation-title">Décorateurs ES7</h4>
+    <h4 class="post-presentation-title">Décorateurs ES7</h4>
     <p>
       <a
         href="https://hadrien.eu"
         target="_blank"
         class="post-img-wrapper-speaker">
         <img
-          src="//secure.gravatar.com/avatar/dfb18eb2b34f518c1b44cb735896f884?s=256"
+          src="img/speakers/hadrien-lanneau.png"
           alt="Hadrien Lanneau"
           title="Hadrien Lanneau" />
 		  </a>
@@ -108,9 +108,15 @@
     </p>
 
     <h4 class="post-presentation-title">Les "npm scripts" en place de runner</h4>
+		<a href="http://maxlab.fr/" target="_blank">
+				<div class="post-img-wrapper-speaker"><img src="https://avatars2.githubusercontent.com/u/711050?s=256" alt="Maxime Warnier" title="Maxime Warnier" /></div>
+		</a>
+		<p>
+			Simplifiez vous la vie, utilisez les scripts npm pour lancer vos tâches.
+		</p>
     <h4 class="post-presentation-title">Webpack</h4>
     <a href="http://moox.io/" target="_blank">
-				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+				<div class="post-img-wrapper-speaker"><img src="//avatars1.githubusercontent.com/u/157534?v=3&amp;s=400" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 		</a>
 		<p>
 			Comment arrêter de bricoler avec les task-runners (Grunt, Gulp & co) pour assembler les élements lors du développement du front-end d'une application JavaScript avec <a href="http://webpack.github.io/">webpack</a>.
@@ -136,7 +142,7 @@
 
 		<h4 class="post-presentation-title">Le futur des CSS</h4>
 		<a href="http://moox.io/" target="_blank">
-				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+				<div class="post-img-wrapper-speaker"><img src="//avatars1.githubusercontent.com/u/157534?v=3&s=400" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 		</a>
 		<p>
 				Maxime Thirouin, développeur front-end freelance, nous a parlé du futur des feuilles de styles, et du project <a href="https://cssnext.github.io/" target="_blank">@cssnext</a>, une alternative aux préprocesseurs CSS, pour un code durable et future-proof.<br>
@@ -164,7 +170,7 @@
 
 		<h4 class="post-presentation-title">Introduction à Gulp</h4>
 		<a href="http://moox.io/" target="_blank">
-				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+				<div class="post-img-wrapper-speaker"><img src="//avatars1.githubusercontent.com/u/157534?v=3&s=400" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 		</a>
 		<p>
 				Maxime Thirouin, développeur front-end freelance, nous a présenté <a href="http://gulpjs.com/" target="_blank">Gulp</a>, une alternative à GruntJS pour automatiser ses tâches.<br>
@@ -173,7 +179,7 @@
 
 		<h4 class="post-presentation-title">Web Components : principes et solutions</h4>
 		<a href="https://twitter.com/goldoraf" target="_blank">
-				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/7ef6aaaa4cc300fe4bb8df4e1e42838e?s=256" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
+				<div class="post-img-wrapper-speaker"><img src="//avatars2.githubusercontent.com/u/5461?v=3&amp;s=460" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
 		</a>
 		<p>
 				Raphaël Rougeron, véritable expert en développement, nous a présenté les principes des Web Components et les solutions pour les mettre en place dès aujourd'hui, principalement au travers du <a href="http://bosonic.github.io/">projet Bosonic</a>.
@@ -188,7 +194,7 @@
 		<!-- Presentation Maxime Thirouin -->
 		<h4 class="post-presentation-title">Browserify all the things</h4>
 		<a href="http://moox.io/" target="_blank">
-				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+				<div class="post-img-wrapper-speaker"><img src="//avatars1.githubusercontent.com/u/157534?v=3&s=400" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 		</a>
 		<p>
 				Maxime Thirouin, développeur front-end freelance, nous a présenté <a href="http://browserify.org/" target="_blank">Browserify</a>, un outil permettant d'utilise l'API CommonJS pour coder et consommer des modules JavaScript.<br>
@@ -198,7 +204,7 @@
 		<!-- Presentation Antoine Rogliano -->
 		<h4 class="post-presentation-title">JV+JS, et pourquoi pas ?</h4>
 		<a href="http://dreamirl.com/" target="_blank">
-				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d515e8dd9a227288d5d5490f29a6e7db?s=256" alt="Antoine Rogliano" title="Antoine Rogliano" /></div>
+				<div class="post-img-wrapper-speaker"><img src="Ma//avatars3.githubusercontent.com/u/1068709?v=3&s=460" alt="Antoine Rogliano" title="Antoine Rogliano" /></div>
 		</a>
 		<p>
 				Antoine Rogliano, fondateur de <a href="http://dreamirl.com/">Dreamirl</a>, nous a fait une bonne introduction sur les moyens pour faire des Jeux vidéos dans le navigateurs, via JavaScript.<br>
@@ -235,7 +241,7 @@
 		<!-- Presentation Maxime Thirouin -->
 		<h4 class="post-presentation-title">Grunt.js (avant/après)</h4>
 		<a href="http://moox.io/" target="_blank">
-				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+				<div class="post-img-wrapper-speaker"><img src="//avatars1.githubusercontent.com/u/157534?v=3&s=400" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 		</a>
 		<p>
 				Maxime Thirouin, développeur front-end freelance, nous a présenté <a href="http://gruntjs.com/" target="_blank">Grunt.JS</a>, un puissant outil d&#39;automatisation de tâches en ligne de commande.<br>
@@ -265,7 +271,7 @@
 		<!-- Presentation Raphaël Rougeron -->
 		<h4 class="post-presentation-title">Soyez ambitieux avec Ember.js</h4>
 		<a href="https://twitter.com/goldoraf" target="_blank">
-				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/7ef6aaaa4cc300fe4bb8df4e1e42838e?s=256" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
+				<div class="post-img-wrapper-speaker"><img src="//avatars2.githubusercontent.com/u/5461?v=3&s=460" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
 		</a>
 		<p>
 				Raphaël Rougeron, véritable expert en développement, nous a présenté <a href="http://emberjs.com" target="_blank">Ember.js</a>, un framework pour les applications web ambitieuses.
@@ -341,7 +347,7 @@
 
 		<h3 class="post-presentation-title">Maxime Thirouin</h3>
 		<a href="http://moox.io/" target="_blank">
-				<div class="post-img-wrapper-promoter"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+				<div class="post-img-wrapper-promoter"><img src="//avatars1.githubusercontent.com/u/157534?v=3&s=400" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 		</a>
 		<p>
 				Ayant réalisé sa première application JavaScript sur PDA il y a bien des années, Maxime est un passionné de développement web. Il se focalise sur le développement côté client, réalisant des interfaces avec CSS et en programmant des expériences utilisateurs originales avec la puissance de JavaScript.
@@ -355,7 +361,7 @@
 
 		<h3 class="post-presentation-title">Raphaël Rougeron</h3>
 		<a href="http://raphael-rougeron.com" target="_blank">
-				<div class="post-img-wrapper-promoter"><img src="//gravatar.com/avatar/7ef6aaaa4cc300fe4bb8df4e1e42838e?s=256" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
+				<div class="post-img-wrapper-promoter"><img src="//avatars2.githubusercontent.com/u/5461?v=3&s=460" alt="Raphaël Rougeron" title="Raphaël Rougeron" /></div>
 		</a>
 		<p>
 				Ivre, il trolle ou code des frameworks...
