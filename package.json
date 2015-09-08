@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "toulousejs",
   "version": "0.0.0",
   "description": "ToulouseJS website",
@@ -6,10 +7,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/francejs/ToulouseJS.git"
-  },
-  "homepage": "https://github.com/francejs/ToulouseJS",
-  "bugs": {
-    "url": "https://github.com/francejs/ToulouseJS/issues"
   },
   "files": [],
   "dependencies": {},

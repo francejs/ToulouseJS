@@ -10,5 +10,6 @@ script:
 
 env:
   global:
-    # MoOx
-    - secure: ciuMqTuwgaNbwlucVZhCqL8nyq1nuTIed8Kd+5EBlH81J4p6CuEzMnO7qoXZ4TSbyuIfleqKxFaKRliQi3PetjQR3UFHFiwyqhPC/I7a57pap5W8wjDGAe3T4NofhddkjCOfUoY+0b2GbupN0OktA9qKex3IUdBW/oqYusCkhcQ=
+    # @MoOx token for francejs/ToulouseJS
+    - secure: "xe7wxg2VNmH2JqHr2/pu/noHs2NoSU3iFyrkEut0G3pWEeaMlTGxuKcAeQzwaJftzK+PzXgXr1J2LBvGTA/UWd9t2BZYYjmvsYVHlwCFxqAZry+bALi6to5rjTBX4uPyK3h4Tm7EdtVX+bdfdI8jJcjf9Nc
+/QmKYtDTcwJkDoIU="
