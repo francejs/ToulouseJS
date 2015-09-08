@@ -83,14 +83,19 @@
 <div id="toulousejs-7" class="post">
 		<h1>Toulouse JS #7</h1>
 		<p class="first">
-			<p>Cela se passe à <a href="">Etincelle Coworking</a>, 2 rue d'Austerlitz, 31000 TOULOUSE, près de la Place Wilson.</p>
-			<p>Au programme du ToulouseJS 7 (mardi 8 septembre):</p>
+			Cela se passe à <a href="">Etincelle Coworking</a>, 2 rue d'Austerlitz, 31000 TOULOUSE, près de la Place Wilson.
+		</p>
+		<p>Au programme du ToulouseJS 7 (mardi 8 septembre à 19h):</p>
 
-<h4 class="post-presentation-title">Décorateurs ES7</h4>
-<h4 class="post-presentation-title">Les "npm scripts" en place de runner</h4>
-<h4 class="post-presentation-title">Webpack</h4>
-
-			<p>Inscriptions sur <a href="http://www.eventbrite.fr/e/billets-toulousejs-7-18315536262">Eventbrite</a>.</p>
+    <h4 class="post-presentation-title">Décorateurs ES7</h4>
+    <h4 class="post-presentation-title">Les "npm scripts" en place de runner</h4>
+    <h4 class="post-presentation-title">Webpack</h4>
+    <a href="http://moox.io/" target="_blank">
+				<div class="post-img-wrapper-speaker"><img src="//gravatar.com/avatar/d2a1c95e2af59538301c3ee6d2907f6f?s=256" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
+		</a>
+		<p>
+			Comment arrêter de bricoler avec les task-runners (Grunt, Gulp & co) pour assembler les élements lors du développement du front-end d'une application JavaScript avec <a href="http://webpack.github.io/">webpack</a>.
+			<br />Présenté par Maxime Thirouin, développeur front-end freelance.
 		</p>
 </div>
 <div id="toulousejs-6" class="post">
