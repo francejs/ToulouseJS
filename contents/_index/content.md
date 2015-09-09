@@ -104,7 +104,8 @@
       ES<del>6</del>2015 nous a apporté les classes, ES<del>7</del>2016 nous apporte de quoi modeler ces classes : les décorateurs.
     </p>
     <p>
-      Présenté par Hadrien Lanneau, développeur front-end (Tigerlily)
+      Présenté par Hadrien Lanneau, développeur front-end (Tigerlily). 
+      <a href="http://slides.com/hadrieneu/d-co" target="_blank">Voir les slides de la présentation</a>.
     </p>
 
     <h4 class="post-presentation-title">Les "npm scripts" en place de runner</h4>
@@ -113,6 +114,8 @@
 		</a>
 		<p>
 			Simplifiez vous la vie, utilisez les scripts npm pour lancer vos tâches.
+			<br />
+			<a href="http://slides.com/maxdow/npm" target="_blank">Voir les slides de la présentation</a>.
 		</p>
     <h4 class="post-presentation-title">Webpack</h4>
     <a href="http://moox.io/" target="_blank">
@@ -121,6 +124,7 @@
 		<p>
 			Comment arrêter de bricoler avec les task-runners (Grunt, Gulp & co) pour assembler les élements lors du développement du front-end d'une application JavaScript avec <a href="http://webpack.github.io/">webpack</a>.
 			<br />Présenté par Maxime Thirouin, développeur front-end freelance.
+			<a href="https://speakerdeck.com/moox/webpack" target="_blank">Voir les slides de la présentation</a>.
 		</p>
 </div>
 <div id="toulousejs-6" class="post">
@@ -146,7 +150,7 @@
 		</a>
 		<p>
 				Maxime Thirouin, développeur front-end freelance, nous a parlé du futur des feuilles de styles, et du project <a href="https://cssnext.github.io/" target="_blank">@cssnext</a>, une alternative aux préprocesseurs CSS, pour un code durable et future-proof.<br>
-				<a href="http://moox.io/slides/2014/bttc" target="_blank">Voir les slides de sa présentation</a>.
+				<a href="http://moox.io/slides/2014/bttc" target="_blank">Voir les slides de la présentation</a>.
 		</p>
 </div>
 <div id="toulousejs-5" class="post">
