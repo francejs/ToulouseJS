@@ -80,6 +80,18 @@
 				Vous pouvez aussi proposer vos talks sur le <a href="https://github.com/francejs/ToulouseJS/issues?state=open">repo Github</a>.
 		</p>
 </div>
+<div id="toulousejs-9" class="post">
+		<h1>Toulouse JS #9</h1>
+		<p></p>
+		<a href="http://alexmarandon.com/slides/javascript-invite/">Le javascript invité</a> par Alex Marandon (@amarandon)
+		<a href="https://www.icloud.com/keynote/000fZ0gEOCjahY4CsbsHNEtNA#Pre%CC%81sentation">Présentation de GraphQL et Relay</a> par Sebastien Andreu ( @sebandreu ) 
+</div>
+<div id="toulousejs-8" class="post">
+		<h1>Toulouse JS #8</h1>
+		<p></p>
+		<a href="http://slides.com/hadrieneu/deck#/">JSPM & SystemJS</a> par Hadrien Lanneau (@hadrienl)
+		<a href="http://real34.github.io/slides/si-utilisateur-etait-fonction/#1">Introduction à la programmation réactive</a> par Pierre Martin (@pierremartin)
+</div>
 <div id="toulousejs-7" class="post">
 		<h1>Toulouse JS #7</h1>
 		<p class="first">
