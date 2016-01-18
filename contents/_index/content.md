@@ -1,8 +1,8 @@
 <div id="prochain-toulousejs" class="post">
 		<h1>Prochain Toulouse JS</h1>
 		<div class="post-img-wrapper"><img src="img/meetups/5/salle.jpg" alt="prochain Toulouse JS"></div>
-		<p>Le lundi 23 novembre 2015 à 19h chez <a href="http://www.coworking-toulouse.com/">Etincelle Coworking</a>, 2 rue d'Austerlitz, 31000 Toulouse, près de la Place Wilson.</p>
-		<p>Les capacités d'accueil sont limitées, merci de <a href="https://www.eventbrite.fr/e/billets-toulousejs-9-19401367011">vous inscrire</a></p>
+		<p>Le Mercredi 3 février 2016 à 19h chez <a href="http://www.coworking-toulouse.com/">Etincelle Coworking</a>, 2 rue d'Austerlitz, 31000 Toulouse, près de la Place Wilson.</p>
+		<p>Les capacités d'accueil sont limitées, merci de <a href="https://www.eventbrite.fr/e/billets-toulousejs-10-20858732029">vous inscrire</a></p>
 		<!-- Begin MailChimp Signup Form -->
 			<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 			<style type="text/css">
