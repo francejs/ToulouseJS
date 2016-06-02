@@ -54,24 +54,8 @@
 			        min: $.validator.format("Veuillez entrer une valeur supérieure ou égale à {0}.")
 			});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 			<!--End mc_embed_signup-->
-		<!--
-		<p class="first">
-				Le prochain ToulouseJS est prévu en collaboration avec <a href="http://aperoweb-toulouse.github.io/">apéro web toulouse</a>
-				<strong>
-				pour le jeudi 30 octobre, 19h30 à Epitech.
-				</strong>
-				<br />
-				(Attention, <a href="https://www.google.fr/maps/place/Epitech+Toulouse/@43.612649,1.429886,17z/data=!3m1!4b1!4m12!1m9!4m8!1m0!1m6!1m2!1s0x12aebb684b28780d:0xb4028dd307c2dfcf!2sEvangelina,+33+Boulevard+Mar%C3%A9chal+Leclerc,+31000+Toulouse!2m2!1d1.43198!2d43.609105!3m1!1s0x0:0x42f190cacf720466?hl=fr">nouvelle adresse: 40 bd de la Marquette</a>)
-				.
-				<br />
-				<br />
-				Consultez le programme et réservez votre place via <a href="http://aperoweb26-toulousejs6.eventbrite.fr">la page Eventbrite de l&#39;événement</a>.
-				<br />
-				Pensez à nous suivre sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a>
-				afin d&#39;être tenu au courant du programme.
-				Et d&#39;ailleurs, le programme c&#39;est vous qui le faites !
-		-->
-		</p>
+
+		
 		<h2>Envie de parler ?</h2>
 		<p>
 				Contactez nous sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
@@ -81,10 +65,15 @@
 		</p>
 </div>
 
+<div id="toulousejs-12" class="post">
+		<h1>Toulouse JS #12</h1>
+		<p>- <a href="http://slides.com/maxdow/ecmascript#/">ECMAScript 2015/2016/...</a> par <a href="maxlab.fr" title="blog javascript ux angularjs">Maxime Warnier</a> <a href="twitter.com/maxdow">@maxdow</a></p>
+    	<p>- <a href="https://t.co/bR0BG3RyWp">Typescript</a> par Simon Bats <a href="https://twitter.com/sbats_">@sbats_</a> et Enguerran Colson <a href="https://twitter.com/ticabri">@ticabri</a></p>
+</div>
 <div id="toulousejs-11" class="post">
 		<h1>Toulouse JS #11</h1>
 		<p>- Redux par Maxime Thirouin @MoOx</p>
-    <p>- Retour d’expérience sur la construction d’une app isomorphique chez Sigfox par Frederik Eychenie @feychenie</p>
+    	<p>- Retour d’expérience sur la construction d’une app isomorphique chez Sigfox par Frederik Eychenie @feychenie</p>
 </div>
 <div id="toulousejs-10" class="post">
 		<h1>Toulouse JS #10</h1>
@@ -93,15 +82,13 @@
 </div>
 <div id="toulousejs-9" class="post">
 		<h1>Toulouse JS #9</h1>
-		
-		<p><a href="http://alexmarandon.com/slides/javascript-invite/">Le javascript invité</a> par Alex Marandon (@amarandon)</p>
-		<p><a href="https://www.icloud.com/keynote/000fZ0gEOCjahY4CsbsHNEtNA#Pre%CC%81sentation">Présentation de GraphQL et Relay</a> par Sebastien Andreu ( @sebandreu ) </p>
+		<a href="http://alexmarandon.com/slides/javascript-invite/">Le javascript invité</a> par Alex Marandon (@amarandon)
+		<a href="https://www.icloud.com/keynote/000fZ0gEOCjahY4CsbsHNEtNA#Pre%CC%81sentation">Présentation de GraphQL et Relay</a> par Sebastien Andreu ( @sebandreu ) 
 </div>
 <div id="toulousejs-8" class="post">
 		<h1>Toulouse JS #8</h1>
-
-		<p><a href="http://slides.com/hadrieneu/deck#/">JSPM & SystemJS</a> par Hadrien Lanneau (@hadrienl)</p>
-		<p><a href="http://real34.github.io/slides/si-utilisateur-etait-fonction/#1">Introduction à la programmation réactive</a> par Pierre Martin (@pierremartin)</p>
+		<a href="http://slides.com/hadrieneu/deck#/">JSPM & SystemJS</a> par Hadrien Lanneau (@hadrienl)
+		<a href="http://real34.github.io/slides/si-utilisateur-etait-fonction/#1">Introduction à la programmation réactive</a> par Pierre Martin (@pierremartin)
 </div>
 <div id="toulousejs-7" class="post">
 		<h1>Toulouse JS #7</h1>
