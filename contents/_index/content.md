@@ -55,7 +55,7 @@
 			});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 			<!--End mc_embed_signup-->
 
-		</p>
+		
 		<h2>Envie de parler ?</h2>
 		<p>
 				Contactez nous sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
@@ -68,12 +68,12 @@
 <div id="toulousejs-12" class="post">
 		<h1>Toulouse JS #12</h1>
 		<p>- <a href="http://slides.com/maxdow/ecmascript#/">ECMAScript 2015/2016/...</a> par <a href="maxlab.fr" title="blog javascript ux angularjs">Maxime Warnier</a> <a href="twitter.com/maxdow">@maxdow</a></p>
-    <p>- <a href="https://t.co/bR0BG3RyWp">Typescript</a> par Simon Bats <a href="https://twitter.com/sbats_">@sbats_</a> et Enguerran Colson <a href="https://twitter.com/ticabri">@ticabri</a></p>
+    	<p>- <a href="https://t.co/bR0BG3RyWp">Typescript</a> par Simon Bats <a href="https://twitter.com/sbats_">@sbats_</a> et Enguerran Colson <a href="https://twitter.com/ticabri">@ticabri</a></p>
 </div>
 <div id="toulousejs-11" class="post">
 		<h1>Toulouse JS #11</h1>
 		<p>- Redux par Maxime Thirouin @MoOx</p>
-    <p>- Retour d’expérience sur la construction d’une app isomorphique chez Sigfox par Frederik Eychenie @feychenie</p>
+    	<p>- Retour d’expérience sur la construction d’une app isomorphique chez Sigfox par Frederik Eychenie @feychenie</p>
 </div>
 <div id="toulousejs-10" class="post">
 		<h1>Toulouse JS #10</h1>
@@ -82,13 +82,11 @@
 </div>
 <div id="toulousejs-9" class="post">
 		<h1>Toulouse JS #9</h1>
-		<p></p>
 		<a href="http://alexmarandon.com/slides/javascript-invite/">Le javascript invité</a> par Alex Marandon (@amarandon)
 		<a href="https://www.icloud.com/keynote/000fZ0gEOCjahY4CsbsHNEtNA#Pre%CC%81sentation">Présentation de GraphQL et Relay</a> par Sebastien Andreu ( @sebandreu ) 
 </div>
 <div id="toulousejs-8" class="post">
 		<h1>Toulouse JS #8</h1>
-		<p></p>
 		<a href="http://slides.com/hadrieneu/deck#/">JSPM & SystemJS</a> par Hadrien Lanneau (@hadrienl)
 		<a href="http://real34.github.io/slides/si-utilisateur-etait-fonction/#1">Introduction à la programmation réactive</a> par Pierre Martin (@pierremartin)
 </div>
