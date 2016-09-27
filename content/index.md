@@ -255,30 +255,3 @@ layout: Homepage
 		<a href="http://hugeen.wordpress.com/index-des-articles/" target="_blank">Voir ses tutoriaux</a>
 </p>
 </div>
-<div id="toulousejs-1" class="post">
-<h1>Toulouse JS #1</h1>
-<div class="post-img-wrapper"><img src="/assets/meetups/toulousejs1.jpg" alt="Toulouse JS 1"></div>
-<p class="first">
-		Le 11 avril 2012, c&#39;est la date du premier Toulouse JS. Ce fut un très bon commencement et cet évènement avait réunis une cinquantaine de personnes pour parler du JavaScript.
-</p>
-<!-- Presentation Sébastien Chopin -->
-<h4 class="post-presentation-title">Le JavaScript aujourd&#39;hui</h4>
-<a href="http://twitter.com/atinux" target="_blank">
-		<div class="post-img-wrapper-speaker"><img src="img/speakers/sebastien-chopin.png" alt="Sébastien Chopin" title="Sébastien Chopin" /></div>
-</a>
-<p>
-		Sébastien Chopin est blogueur sur <a href="http://www.atinux.fr" target="_blank">Atinux.fr</a> et directeur technique chez Malea.<br>
-		Il a fait le point entre le JavaScript d&#39;avant et celui d&#39;aujourd&#39;hui.<br>
-		<a href="http://prezi.com/ly9cenvkrh6w/javascript-aujourdhui/" target="_blank">Voir les slides de sa présentation</a>
-</p>
-<!-- Presentation Rémy Loubradou -->
-<h4 class="post-presentation-title">Vous connaissez Node.js ?</h4>
-<a href="https://twitter.com/lbdremy" target="_blank">
-		<div class="post-img-wrapper-speaker"><img src="img/speakers/remy-loubradou.png" alt="Rémy Loubradou" title="Rémy Loubradou" /></div>
-</a>
-<p>
-		Rémy Loubradou, développeur chez <a href="http://hipsnip.com" target="_blank">HipSnip</a>, est un des premiers français à avoir utilisé node.js.<br>
-		Il nous a permis de comprendre le fonctionnement, l&#39;utilisé et l&#39;environnement de node.js.<br>
-		<a href="https://github.com/lbdremy/presentations/tree/master/introduction-%C3%A0-nodejs-toulousejs/" target="_blank">Voir les slides de sa présentation</a>
-</p>
-</div>
