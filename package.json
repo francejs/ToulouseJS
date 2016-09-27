@@ -3,23 +3,11 @@
   "name": "toulousejs",
   "version": "0.0.0",
   "description": "ToulouseJS website",
-  "keywords": [],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/francejs/ToulouseJS.git"
+  "repository": "https://github.com/francejs/ToulouseJS.git",
+  "dependencies": {
   },
-  "files": [],
-  "dependencies": {},
   "devDependencies": {
-    "gulp": "^3.8.7",
-    "gulp-gh-pages": "^0.3.3",
-    "gulp-util": "^3.0.0",
-    "punch": "^0.5.45"
   },
-  "scripts": {
-    "test": "punch g",
-    "start": "sleep 2 && open http://localhost:3000/ & punch s 3000",
-    "deploy": "npm run test && gulp deploy",
-    "travis": "if [ \"$TRAVIS_PULL_REQUEST\" != \"false\" ] || [ \"$TRAVIS_BRANCH\" != \"master\" ]; then npm run test; else npm run deploy; fi;"
+  "scripts":{
   }
 }

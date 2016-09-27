@@ -1,3 +1,7 @@
+---
+title: Toulouse JS - L'évènement JavaScript du Sud-Ouest
+---
+
 <div id="prochain-toulousejs" class="post">
 		<h1>Prochain Toulouse JS</h1>
 		<div class="post-img-wrapper"><img src="img/meetups/5/salle.jpg" alt="prochain Toulouse JS"></div>
@@ -55,7 +59,7 @@
 			});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 			<!--End mc_embed_signup-->
 
-		
+
 		<h2>Envie de parler ?</h2>
 		<p>
 				Contactez nous sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
@@ -83,7 +87,7 @@
 <div id="toulousejs-9" class="post">
 		<h1>Toulouse JS #9</h1>
 		<a href="http://alexmarandon.com/slides/javascript-invite/">Le javascript invité</a> par Alex Marandon (@amarandon)
-		<a href="https://www.icloud.com/keynote/000fZ0gEOCjahY4CsbsHNEtNA#Pre%CC%81sentation">Présentation de GraphQL et Relay</a> par Sebastien Andreu ( @sebandreu ) 
+		<a href="https://www.icloud.com/keynote/000fZ0gEOCjahY4CsbsHNEtNA#Pre%CC%81sentation">Présentation de GraphQL et Relay</a> par Sebastien Andreu ( @sebandreu )
 </div>
 <div id="toulousejs-8" class="post">
 		<h1>Toulouse JS #8</h1>
@@ -114,7 +118,7 @@
       ES<del>6</del>2015 nous a apporté les classes, ES<del>7</del>2016 nous apporte de quoi modeler ces classes : les décorateurs.
     </p>
     <p>
-      Présenté par Hadrien Lanneau, développeur front-end (Tigerlily). 
+      Présenté par Hadrien Lanneau, développeur front-end (Tigerlily).
       <a href="http://slides.com/hadrieneu/d-co" target="_blank">Voir les slides de la présentation</a>.
     </p>
 

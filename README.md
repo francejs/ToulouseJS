@@ -1,4 +1,4 @@
-# [![ToulouseJS](templates/img/toulousejs.png)](http://toulousejs.francejs.org/)
+# [ToulouseJS](http://toulousejs.francejs.org/)
 
 [![Build Status](http://img.shields.io/travis/francejs/ToulouseJS.svg)](https://travis-ci.org/francejs/ToulouseJS)
 
@@ -12,39 +12,47 @@ Rendez vous sur [le site](http://toulousejs.francejs.org/) pour plus d'informati
 
 # Contribuer au site
 
-Le site utilise [Punch](http://laktek.github.com/punch/), un générateur de site static utilisant Node.js.
+Le site utilise [rien pour l'instant](#todo).
 
 ## Récupérer le code source
 
-    $ git clone git://github.com/francejs/ToulouseJS.git
+```console
+git clone git://github.com/francejs/ToulouseJS.git
+```
 
-## Installer Punch (via npm)
+## Installer
 
 Cette commande nécessite Node.js d'installé sur votre machine
 
-    $ npm install
+```console
+npm install
+```
 
-## Démarrer le serveur
+## Démarrer
 
 Cette commande va démarrer le serveur punch et vous ouvrir la page dans votre
 navigateur
 
-    $ npm start
+```console
+npm start
+```
 
 Le server écoute sur le port 3000 de votre machine. Vous devriez donc déjà avoir
 [http://localhost:3000/](http://localhost:3000/) d'ouvert après cette commande.
 
-*[Documentation de Punch](https://github.com/laktek/punch/wiki)*
+*[Documentation de XXX](#todo)*
 
 Un fois que vous avez testé votre modification, soumettez une Pull Request :)
 
-## Mise en production
+## Déployer
 
 La commande suivante (lorsque vous avez les droits nécessaires) va construire le site
 en version optimisée, et le publier (mise à jour de la branche  `gh-pages`, qui,
 grâce à GitHub, suffit à mettre en ligne le site).
 
-    $ npm run deploy
+```console
+npm run deploy
+```
 
 **Cela dit, tous les commits dans la branche `master` provoqueront une mise en production automatique via [Travis-CI](https://travis-ci.org/).**
 
