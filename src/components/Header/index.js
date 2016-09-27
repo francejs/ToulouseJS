@@ -3,6 +3,7 @@ import { Link } from "react-router"
 
 import styles from "./index.css"
 import Svg from "react-svg-inline"
+import logoSvg from "../../../logo/logo-toulousejs.svg"
 import twitterSvg from "../icons/iconmonstr-twitter-1.svg"
 import gitHubSvg from "../icons/iconmonstr-github-1.svg"
 
@@ -14,7 +15,8 @@ const Header = (props, { metadata: { pkg } }) => (
           className={ styles.link }
           to="/"
         >
-          { "Home" }
+          <span className={ styles.logoText }>{ "Toulouse" }</span>
+          <Svg svg={ logoSvg } width="52px" height="52px" />
         </Link>
       </div>
       <div className={ styles.navPart2 }>
