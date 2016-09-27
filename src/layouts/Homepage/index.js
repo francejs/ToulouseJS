@@ -10,7 +10,7 @@ const numberOfLatestPosts = 6
 
 const Homepage = (props, { collection }) => {
   const latestPosts = enhanceCollection(collection, {
-    filter: { layout: "Post" },
+    filter: { layout: "Meetup" },
     sort: "date",
     reverse: true,
   })
@@ -27,7 +27,7 @@ const Homepage = (props, { collection }) => {
       </Banner>
       <Content>
         <Page { ...props }>
-          <h2>{ "Latest Posts" }</h2>
+          <h2>{ "Les derniers meetups" }</h2>
           <PagesList pages={ latestPosts } />
         </Page>
       </Content>
