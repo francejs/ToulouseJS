@@ -4,6 +4,7 @@ import enhanceCollection from "phenomic/lib/enhance-collection"
 import Page from "../Page"
 import PagesList from "../../components/PagesList"
 import Content from "../../components/Content"
+import Banner from "../../components/Banner"
 
 const numberOfLatestPosts = 6
 
@@ -17,6 +18,13 @@ const Homepage = (props, { collection }) => {
 
   return (
     <div>
+      <Banner
+        image={ "/assets//Toulouse_Capitole_Night_Wikimedia_Commons.jpg" }
+      >
+        { "Toulouse JS" }
+        <br />
+        { "L'évènement JavaScript du Sud-Ouest" }
+      </Banner>
       <Content>
         <Page { ...props }>
           <h2>{ "Latest Posts" }</h2>
