@@ -25,7 +25,3 @@ Vous pouvez aussi proposer vos talks sur le [repo Github](https://github.com/fra
 - HTTP2 : par Laurent Saint-Félix @Anaethelion
 
 - Retour d'experience sur node.js en production par Antoine Rogliano @Inateno
-
-## Toulouse JS #9
-
-[Le javascript invité](http://alexmarandon.com/slides/javascript-invite/) par Alex Marandon (@amarandon) [Présentation de GraphQL et Relay](https://www.icloud.com/keynote/000fZ0gEOCjahY4CsbsHNEtNA#Pre%CC%81sentation) par Sebastien Andreu ( @sebandreu )
