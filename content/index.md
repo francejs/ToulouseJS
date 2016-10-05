@@ -110,36 +110,3 @@ Maxime Thirouin, développeur front-end freelance, nous a présenté [Gulp](http
 [![Raphaël Rougeron](//avatars2.githubusercontent.com/u/5461?v=3&s=64 "Raphaël Rougeron")](https://twitter.com/goldoraf)
 
 Raphaël Rougeron, véritable expert en développement, nous a présenté les principes des Web Components et les solutions pour les mettre en place dès aujourd'hui, principalement au travers du [projet Bosonic](http://bosonic.github.io/).
-
-## Toulouse JS #4
-
-![Toulouse JS 4](/assets/meetups/toulousejs4.jpg)
-
-Petit reprise bien sympathique de l'évenement ToulouseJS histoire de se souhaiter la bonne année juste avant l'extrême limite ! Le soir du 30 janvier 2014, à Epitech Toulouse, nous avons pu assister à 3 talks pour cette remise en jambe.
-
-Presentation Maxime Thirouin
-
-### Browserify all the things
-
-[![Maxime Thirouin](//avatars1.githubusercontent.com/u/157534?v=3&s=64 "Maxime Thirouin")](http://moox.io/)
-
-Maxime Thirouin, développeur front-end freelance, nous a présenté [Browserify](http://browserify.org/), un outil permettant d'utilise l'API CommonJS pour coder et consommer des modules JavaScript.<br>
-[Voir les slides de sa présentation](http://moox.io/slides/2014/browserify-all-the-things/) ou [lire l'article _Browserify all the things_ sur putaindecode.fr](http://putaindecode.fr/posts/js/browserify-all-the-things/).
-
-Presentation Antoine Rogliano
-
-### JV+JS, et pourquoi pas ?
-
-[![Antoine Rogliano](Ma//avatars3.githubusercontent.com/u/1068709?v=3&s=64 "Antoine Rogliano")](http://dreamirl.com/)
-
-Antoine Rogliano, fondateur de [Dreamirl](http://dreamirl.com/), nous a fait une bonne introduction sur les moyens pour faire des Jeux vidéos dans le navigateurs, via JavaScript.<br>
-[Voir les slides de sa présentation](http://inabook.fr/slides/tjs-jvjs/).
-
-Presentation Younès Benaomar
-
-### Javascript & Internet des Objets
-
-[![Younès Benaomar](http://www.interactive-object.com/francejs/images/avatar.png "Younès Benaomar")](http://www.interactive-object.com/)
-
-Younès Benaomar, développeur et designer d'interface, nous a parlé de l'Internet des Objets via JavaScript, avec une petit démo d'un buggy qui filmait la salle en temps réel, visualisable et contrôlable en temps réel via le navigateur.<br>
-[Voir les slides de sa présentation](http://www.interactive-object.com/francejs/).
