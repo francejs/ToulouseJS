@@ -5,7 +5,8 @@ layout: Homepage
 
 <h2>Envie de parler ?</h2>
 <p>
-		Il suffit de faire une proposition pour avoir son petit créneau tant qu&#39;on parle de JavaScript.
+		Contactez nous via <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a>.
+		Il suffit de faire une proposition pour avoir son petit créneau tant qu‘on parle de JavaScript.
 		<br />
 		Vous pouvez aussi proposer vos talks sur le <a href="https://github.com/francejs/ToulouseJS/issues?state=open">repo Github</a>.
 </p>
@@ -187,7 +188,7 @@ layout: Homepage
 <h1>Toulouse JS #3</h1>
 <div class="post-img-wrapper"><img src="/assets/meetups/toulousejs3.jpg" alt="Toulouse JS 3"></div>
 <p class="first">
-		C&#39;était pas moins d&#39;une centaine de personnes qui se sont réunis le mercredi 23 janvier 2013 à Epitech Toulouse pour la troisième édition du Toulouse JS. Des personnes de tous âges, réunissant des experts aux débutants, avec en prime des développeurs Java membres du Toulouse JUG (que nous saluons au passage).
+		C‘était pas moins d‘une centaine de personnes qui se sont réunis le mercredi 23 janvier 2013 à Epitech Toulouse pour la troisième édition du Toulouse JS. Des personnes de tous âges, réunissant des experts aux débutants, avec en prime des développeurs Java membres du Toulouse JUG (que nous saluons au passage).
 </p>
 <!-- Presentation Hadrien Lanneau -->
 <h4 class="post-presentation-title">Web App MVC en production</h4>
@@ -195,7 +196,7 @@ layout: Homepage
 		<div class="post-img-wrapper-speaker"><img src="img/speakers/hadrien-lanneau.png" alt="Hadrien Lanneau" title="Hadrien Lanneau" /></div>
 </a>
 <p>
-		Hadrien Lanneau, développeur front-end chez <a href="http://www.over-blog.com" target="_blank">Overblog</a>, nous a fait son retour d&#39;expérience sur la mise en production d&#39;une grosse application web MVC côté client.<br>
+		Hadrien Lanneau, développeur front-end chez <a href="http://www.over-blog.com" target="_blank">Overblog</a>, nous a fait son retour d‘expérience sur la mise en production d‘une grosse application web MVC côté client.<br>
 		<a href="http://www.dailymotion.com/video/xx388v_toulouse-js-3-hadrien-lanneau_tech" target="_blank">Voir la vidéo de sa présentation</a>.
 </p>
 <!-- Presentation Maxime Thirouin -->
@@ -204,7 +205,7 @@ layout: Homepage
 		<div class="post-img-wrapper-speaker"><img src="//avatars1.githubusercontent.com/u/157534?v=3&s=400" alt="Maxime Thirouin" title="Maxime Thirouin" /></div>
 </a>
 <p>
-		Maxime Thirouin, développeur front-end freelance, nous a présenté <a href="http://gruntjs.com/" target="_blank">Grunt.JS</a>, un puissant outil d&#39;automatisation de tâches en ligne de commande.<br>
+		Maxime Thirouin, développeur front-end freelance, nous a présenté <a href="http://gruntjs.com/" target="_blank">Grunt.JS</a>, un puissant outil d‘automatisation de tâches en ligne de commande.<br>
 		<a href="http://moox.io/slides/2013/grunt-before-after/" target="_blank">Voir les slides de sa présentation</a>.
 </p>
 <!-- Presentation Paul Rouget -->
@@ -219,7 +220,7 @@ layout: Homepage
 <!-- Others things -->
 <h4 class="post-presentation-title">Un regroupement de bières</h4>
 <div class="post-img-wrapper"><img src="img/bieres.png" alt="Bieres"/></div>
-<p>Tout le monde s&#39;est ensuite retrouvé dans un bar à côté d&#39;Epitech pour échanger et boire des litres de bières dans la bonne humeur.</p>
+<p>Tout le monde s‘est ensuite retrouvé dans un bar à côté d‘Epitech pour échanger et boire des litres de bières dans la bonne humeur.</p>
 <p><a href="http://www.flickr.com/photos/toulousejs/sets/72157632627665453/" target="_blank">Voir les photos de cette édition</a></p>
 </div>
 <div id="toulousejs-2" class="post">
