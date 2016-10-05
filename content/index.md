@@ -82,31 +82,3 @@ Enguerran Colson, artisan développeur, nous a présenté [React](http://faceboo
 
 Maxime Thirouin, développeur front-end freelance, nous a parlé du futur des feuilles de styles, et du project [@cssnext](https://cssnext.github.io/), une alternative aux préprocesseurs CSS, pour un code durable et future-proof.<br>
 [Voir les slides de la présentation](http://moox.io/slides/2014/bttc).
-
-## Toulouse JS #5
-
-![Toulouse JS 5](/assets/meetups/toulousejs5.jpg)
-[Crédit photo: Frank Taillandier](https://www.flickr.com/photos/dirtyf/13456768983/)
-
-Le jeudi 27 mars, 19h30 à Epitech, nous avons eu un super programme avec du AngularJS, une introduction à Gulp et pour finir en beauté, une présentation des Web Components !<br>
-Certains se sont, comme d'habitude, retrouvés pour boire un coup après.
-
-### AngularJs une approche moderne du développement Web
-
-[![Maxime Warnier](https://avatars2.githubusercontent.com/u/711050?s=64 "Maxime Warnier")](http://maxlab.fr/)
-
-Maxime Warnier, développeur web, nous a présenté [AngularJS](http://www.angularjs.org/), un framework JavaScript pour faire des solides applications web.<br>
-[Voir les slides de sa présentation](http://maxlab.fr/?p=427).
-
-### Introduction à Gulp
-
-[![Maxime Thirouin](//avatars1.githubusercontent.com/u/157534?v=3&s=64 "Maxime Thirouin")](http://moox.io/)
-
-Maxime Thirouin, développeur front-end freelance, nous a présenté [Gulp](http://gulpjs.com/), une alternative à GruntJS pour automatiser ses tâches.<br>
-[Voir les slides de sa présentation](http://moox.io/slides/2014/introduction-gulp/).
-
-### Web Components : principes et solutions
-
-[![Raphaël Rougeron](//avatars2.githubusercontent.com/u/5461?v=3&s=64 "Raphaël Rougeron")](https://twitter.com/goldoraf)
-
-Raphaël Rougeron, véritable expert en développement, nous a présenté les principes des Web Components et les solutions pour les mettre en place dès aujourd'hui, principalement au travers du [projet Bosonic](http://bosonic.github.io/).
