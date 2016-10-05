@@ -13,9 +13,3 @@ Vous pouvez aussi proposer vos talks sur le [repo Github](https://github.com/fra
 - [ECMAScript 2015/2016/...](http://slides.com/maxdow/ecmascript#/) par [Maxime Warnier](maxlab.fr "blog javascript ux angularjs") [@maxdow](twitter.com/maxdow)
 
 - [Typescript](https://t.co/bR0BG3RyWp) par Simon Bats [@sbats_](https://twitter.com/sbats_) et Enguerran Colson [@ticabri](https://twitter.com/ticabri)
-
-## Toulouse JS #11
-
-- Redux par Maxime Thirouin @MoOx
-
-- Retour d'expérience sur la construction d'une app isomorphique chez Sigfox par Frederik Eychenie @feychenie
