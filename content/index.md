@@ -61,24 +61,3 @@ Simplifiez vous la vie, utilisez les scripts npm pour lancer vos tâches.<br>
 
 Comment arrêter de bricoler avec les task-runners (Grunt, Gulp & co) pour assembler les élements lors du développement du front-end d'une application JavaScript avec [webpack](http://webpack.github.io/).<br>
 Présenté par Maxime Thirouin, développeur front-end freelance. [Voir les slides de la présentation](https://speakerdeck.com/moox/webpack).
-
-## Toulouse JS #6 / Apéro web #26
-
-![Toulouse JS 6](/assets/meetups/toulousejs6.jpg)
-
-Le jeudi 30 octobre à Epitech (nouveaux locaux), nous avons eu une présentation de React, et du futur des CSS.<br>
-Comme d'habitude, on s'est tous retrouvés pour boire un coup après, l'occassion d'un [Apéro web](http://aperoweb-toulouse.github.io/).
-
-### Introduction a ReactJS
-
-[![Enguerran Colson](https://avatars2.githubusercontent.com/u/4551756?v=2&s=64 "Enguerran Colson")](http://blog.ticabri.com/)
-
-Enguerran Colson, artisan développeur, nous a présenté [React](http://facebook.github.io/react/), une librairie JavaScript pour gérer ses vues de manière très simple et performante.<br>
-[Voir les slides de sa présentation](http://enguerran.github.io/talks/introduction-reactjs/#/).
-
-### Le futur des CSS
-
-[![Maxime Thirouin](//avatars1.githubusercontent.com/u/157534?v=3&s=64 "Maxime Thirouin")](http://moox.io/)
-
-Maxime Thirouin, développeur front-end freelance, nous a parlé du futur des feuilles de styles, et du project [@cssnext](https://cssnext.github.io/), une alternative aux préprocesseurs CSS, pour un code durable et future-proof.<br>
-[Voir les slides de la présentation](http://moox.io/slides/2014/bttc).
