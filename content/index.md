@@ -19,9 +19,3 @@ Vous pouvez aussi proposer vos talks sur le [repo Github](https://github.com/fra
 - Redux par Maxime Thirouin @MoOx
 
 - Retour d'expérience sur la construction d'une app isomorphique chez Sigfox par Frederik Eychenie @feychenie
-
-## Toulouse JS #10
-
-- HTTP2 : par Laurent Saint-Félix @Anaethelion
-
-- Retour d'experience sur node.js en production par Antoine Rogliano @Inateno
