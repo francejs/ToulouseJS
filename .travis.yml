@@ -26,3 +26,4 @@ env:
     # @MoOx token for francejs/ToulouseJS
     - secure: >-
         vmBZf+ikTdnGKR8pV4OWejNf872eINRkor9k6Xt71A5dCbQlVqVm+aFse7aE32wpK45jBjZJTpCRBffsJU3ZCU5Y9Jiu3mHDNTc3wh2IyQ9zUES445yNK9SSsI7vyn+twU4NxZa+3R+0DStTuXjeIona4AyWzmwyc5tUXiRoFYI=
+    - GIT_DEPLOY_REPO=https://$GITHUB_TOKEN@github.com/francejs/ToulouseJS.git
