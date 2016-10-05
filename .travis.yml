@@ -24,5 +24,5 @@ deploy:
 env:
   global:
     # @MoOx token for francejs/ToulouseJS
-    - secure: "xe7wxg2VNmH2JqHr2/pu/noHs2NoSU3iFyrkEut0G3pWEeaMlTGxuKcAeQzwaJftzK+PzXgXr1J2LBvGTA/UWd9t2BZYYjmvsYVHlwCFxqAZry+bALi6to5rjTBX4uPyK3h4Tm7EdtVX+bdfdI8jJcjf9Nc
-/QmKYtDTcwJkDoIU="
+    - secure: >-
+        vmBZf+ikTdnGKR8pV4OWejNf872eINRkor9k6Xt71A5dCbQlVqVm+aFse7aE32wpK45jBjZJTpCRBffsJU3ZCU5Y9Jiu3mHDNTc3wh2IyQ9zUES445yNK9SSsI7vyn+twU4NxZa+3R+0DStTuXjeIona4AyWzmwyc5tUXiRoFYI=
