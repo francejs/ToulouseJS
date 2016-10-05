@@ -6,15 +6,12 @@ import PagesList from "../../components/PagesList"
 import Content from "../../components/Content"
 import Banner from "../../components/Banner"
 
-const numberOfLatestPosts = 6
-
 const Homepage = (props, { collection }) => {
   const latestPosts = enhanceCollection(collection, {
     filter: { layout: "Meetup" },
     sort: "date",
     reverse: true,
   })
-  .slice(0, numberOfLatestPosts)
 
   return (
     <div>
