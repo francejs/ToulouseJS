@@ -5,7 +5,6 @@ layout: Homepage
 
 <h2>Envie de parler ?</h2>
 <p>
-		Contactez nous sur <a href="https://twitter.com/ToulouseJS" target="_blank">Twitter</a> ou sur <a href="https://plus.google.com/u/0/communities/114813405129984534292" target="_blank">le groupe Google +</a>.
 		Il suffit de faire une proposition pour avoir son petit créneau tant qu&#39;on parle de JavaScript.
 		<br />
 		Vous pouvez aussi proposer vos talks sur le <a href="https://github.com/francejs/ToulouseJS/issues?state=open">repo Github</a>.
