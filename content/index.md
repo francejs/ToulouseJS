@@ -29,7 +29,3 @@ Vous pouvez aussi proposer vos talks sur le [repo Github](https://github.com/fra
 ## Toulouse JS #9
 
 [Le javascript invité](http://alexmarandon.com/slides/javascript-invite/) par Alex Marandon (@amarandon) [Présentation de GraphQL et Relay](https://www.icloud.com/keynote/000fZ0gEOCjahY4CsbsHNEtNA#Pre%CC%81sentation) par Sebastien Andreu ( @sebandreu )
-
-## Toulouse JS #8
-
-[JSPM & SystemJS](http://slides.com/hadrieneu/deck) par Hadrien Lanneau (@hadrienl) [Introduction à la programmation réactive](http://real34.github.io/slides/si-utilisateur-etait-fonction/#1) par Pierre Martin (@pierremartin)
