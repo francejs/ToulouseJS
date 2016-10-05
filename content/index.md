@@ -182,32 +182,3 @@ Others things
 Tout le monde s'est ensuite retrouvé dans un bar à côté d'Epitech pour échanger et boire des litres de bières dans la bonne humeur.
 
 [Voir les photos de cette édition](http://www.flickr.com/photos/toulousejs/sets/72157632627665453/)
-
-## Toulouse JS #2
-
-![Toulouse JS 2](/assets/meetups/toulousejs2.jpg)
-
-Quelques mois plus tard la première édition, le Toulouse JS pris place le 28 novembre 2012 à Epitech Toulouse. Cette édition était consacrée aux frameworks front-end.
-
-Presentation Raphaël Rougeron
-
-### Soyez ambitieux avec Ember.js
-
-[![Raphaël Rougeron](//avatars2.githubusercontent.com/u/5461?v=3&s=64 "Raphaël Rougeron")](https://twitter.com/goldoraf)
-
-Raphaël Rougeron, véritable expert en développement, nous a présenté [Ember.js](http://emberjs.com), un framework pour les applications web ambitieuses.
-
-Presentation Jean Christophe Queval
-
-### Réaliser une application moderne avec Backbone.js
-
-[![Jean Christophe Queval](img/speakers/jean-christophe-queval.png "Jean Christophe Queval")](https://twitter.com/queval_j)
-
-Jean Christophe Queval, free-lance et étudiant à Epitech, a fait sa toute première présentation avec [Backbone.JS](http://backbonejs.org), un framework comme Ember.js, mais avec une API différente.
-
-Presentation Cyrille Bogaert
-
-### Un jeu multijoueurs et en temps réel avec Socket.io
-
-[![Cyrille Bogaert](img/speakers/cyrille-bogaert.png "Cyrille Bogaert")](https://twitter.com/Hugeen) est un développeur web et formateur chez [Toxicode](http://www.toxicode.fr/). Nous avons vu un jeu multijoueurs en temps réel et pu comprendre son fonctionnement.<br>
-[Voir ses tutoriaux](http://hugeen.wordpress.com/index-des-articles/)
