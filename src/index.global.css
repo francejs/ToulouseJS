@@ -73,7 +73,7 @@ body {
 
 /* minimal styling, prefer removing this and use local styles */
 a {
-  color: #e30008;
+  color: var(--mainColor);
 }
 
 /* handy for content */
