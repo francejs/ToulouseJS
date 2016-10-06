@@ -18,7 +18,9 @@ const Homepage = (props, { collection }) => {
       <Banner
         image={ "/assets/Toulouse_Capitole_Night_Wikimedia_Commons.jpg" }
       >
-        { "Toulouse JS" }
+        <span style={ { fontWeight: "bold", color: "yellow" } }>
+          { "Toulouse JS" }
+        </span>
         <br />
         { "L'évènement JavaScript du Sud-Ouest" }
       </Banner>

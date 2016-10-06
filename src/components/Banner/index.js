@@ -9,7 +9,6 @@ const Banner = (props) => {
     <div
       className={ styles.container }
       style={ {
-        color: "yellow",
         background: `
         linear-gradient(
           179deg,
