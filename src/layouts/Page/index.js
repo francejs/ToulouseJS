@@ -14,6 +14,7 @@ const Page = (
     header,
     footer,
     children,
+     noTitle,
   },
   {
     metadata: { pkg },
@@ -48,7 +49,7 @@ const Page = (
         meta={ meta }
       />
       {
-        head.title &&
+        !noTitle && head.title &&
         <h1 className={ styles.heading }>{ head.title }</h1>
       }
       { header }
@@ -67,6 +68,11 @@ Page.propTypes = {
   body: PropTypes.string.isRequired,
   header: PropTypes.element,
   footer: PropTypes.element,
+  noTitle: PropTypes.bool,
+}
+
+Page.defaultProps = {
+  noTitle: false,
 }
 
 Page.contextTypes = {

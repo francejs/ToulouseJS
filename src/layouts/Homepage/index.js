@@ -16,14 +16,14 @@ const Homepage = (props, { collection }) => {
   return (
     <div>
       <Banner
-        image={ "/assets//Toulouse_Capitole_Night_Wikimedia_Commons.jpg" }
+        image={ "/assets/Toulouse_Capitole_Night_Wikimedia_Commons.jpg" }
       >
         { "Toulouse JS" }
         <br />
         { "L'évènement JavaScript du Sud-Ouest" }
       </Banner>
       <Content>
-        <Page { ...props }>
+        <Page { ...props } noTitle>
           <h2>{ "Les derniers meetups" }</h2>
           <PagesList pages={ latestPosts } />
         </Page>
