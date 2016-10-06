@@ -12,7 +12,7 @@ const Banner = (props) => {
         background: `
         linear-gradient(
           179deg,
-          rgba(204, 0, 0, 0.8),
+          rgba(0, 0, 0, 0.8),
           rgba(255, 0, 0, 0.2)
         ),
         url("${ props.image }")  50% 50% / cover`,
