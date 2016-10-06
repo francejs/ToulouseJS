@@ -5,7 +5,7 @@
 .header {
   color: var(--mainColorContrasted);
   background: var(--mainColor);
-  background: linear-gradient(to right, var(--mainColor), var(--mainColor2));
+  background: linear-gradient(var(--mainColor), var(--mainColor2));
 }
 
 .nav {

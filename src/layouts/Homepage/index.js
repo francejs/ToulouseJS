@@ -6,27 +6,26 @@ import PagesList from "../../components/PagesList"
 import Content from "../../components/Content"
 import Banner from "../../components/Banner"
 
-const numberOfLatestPosts = 6
-
 const Homepage = (props, { collection }) => {
   const latestPosts = enhanceCollection(collection, {
     filter: { layout: "Meetup" },
     sort: "date",
     reverse: true,
   })
-  .slice(0, numberOfLatestPosts)
 
   return (
     <div>
       <Banner
-        image={ "/assets//Toulouse_Capitole_Night_Wikimedia_Commons.jpg" }
+        image={ "/assets/Toulouse_Capitole_Night_Wikimedia_Commons.jpg" }
       >
-        { "Toulouse JS" }
+        <span style={ { fontWeight: "bold", color: "yellow" } }>
+          { "Toulouse JS" }
+        </span>
         <br />
         { "L'évènement JavaScript du Sud-Ouest" }
       </Banner>
       <Content>
-        <Page { ...props }>
+        <Page { ...props } noTitle>
           <h2>{ "Les derniers meetups" }</h2>
           <PagesList pages={ latestPosts } />
         </Page>

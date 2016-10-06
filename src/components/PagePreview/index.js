@@ -1,24 +1,31 @@
 import React, { PropTypes } from "react"
 import { Link } from "react-router"
 
+import styles from "./index.css"
+
 const PagePreview = ({ __url, title, date }) => {
   const pageDate = date ? new Date(date) : null
 
   return (
-    <div>
-      <Link to={ __url }>
-        { title }
-      </Link>
+    <Link
+      to={ __url }
+      className={ styles.link }
+    >
+      <span className={ styles.title }>{ title }</span>
       {
         pageDate &&
-        <small>
-          { " " }
-          <time key={ pageDate.toISOString() }>
-            { pageDate.toDateString() }
-          </time>
-        </small>
+        <time className={ styles.date }>
+          {
+            pageDate
+            .toLocaleString("fr-fr", {
+              month: "long",
+              day: "numeric",
+              year: "numeric",
+            })
+          }
+        </time>
       }
-    </div>
+    </Link>
   )
 }
 

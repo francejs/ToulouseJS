@@ -1,0 +1,15 @@
+.link {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.date {
+  font-weight: 100;
+}
