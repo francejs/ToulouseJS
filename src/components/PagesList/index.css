@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.listItem {
+  margin: auto;
+  padding: 1rem;
+}
