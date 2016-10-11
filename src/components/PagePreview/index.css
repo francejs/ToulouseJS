@@ -2,6 +2,14 @@
   display: flex;
   flex-direction: column;
   padding: 1rem;
+  transition: color ease-in 0.2s;
+  color: #ff2d09;
+  text-decoration: none;
+  text-shadow: 0 1px 1px #555;
+}
+
+.link:hover {
+  color: #ff5722;
 }
 
 .title {

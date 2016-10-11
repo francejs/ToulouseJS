@@ -5,6 +5,10 @@
   margin: 1rem 0.75rem;
 }
 
+.page ul {
+  list-style: none;
+}
+
 .heading {
   color: var(--mainColor);
 }

@@ -2,4 +2,11 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background: url("/assets/ravenna.png");
+  color: #222;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 1.5em;
 }
