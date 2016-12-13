@@ -5,7 +5,7 @@ layout: Homepage
 ## Se tenir informé 
 Le canal d'information pour se tenir informé des prochains évenements est le [compte Twitter](https://twitter.com/ToulouseJS)
 
-Vous pouvez aussi participer au [slack des communautés toulousaines](https://communautes-toulouse.slack.com/) en [vous auto-invitant ici](https://ct-slack-invite.herokuapp.com/)
+Vous pouvez aussi participer au [slack des communautés toulousaines](https://communautes-toulouse.slack.com/) en [vous auto-invitant ici](http://communautes-toulouse.herokuapp.com/)
 
 ## Envie de parler ?
 
