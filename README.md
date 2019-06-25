@@ -1,4 +1,4 @@
-# [ToulouseJS](http://toulousejs.francejs.org/)
+# [ToulouseJS](http://francejs.org/ToulouseJS/)
 
 [![Build Status](http://img.shields.io/travis/francejs/ToulouseJS.svg)](https://travis-ci.org/francejs/ToulouseJS)
 
@@ -7,7 +7,7 @@
 
 ## Contribuer à ToulouseJS
 
-Rendez vous sur [le site](http://toulousejs.francejs.org/) pour plus d'informations.
+Rendez vous sur [le site](http://francejs.org/ToulouseJS/) pour plus d'informations.
 
 ## Contribuer au site
 
