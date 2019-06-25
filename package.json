@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "toulouse-js",
-  "homepage": "http://toulousejs.francejs.org/",
+  "homepage": "http://francejs.org/ToulouseJS/",
   "twitter": "ToulouseJS",
   "repository": "https://github.com/francejs/ToulouseJS.git",
   "scripts": {
